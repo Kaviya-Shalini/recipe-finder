@@ -1,0 +1,1001 @@
+Name,Category,Ingredients,Cooking Time (min),Instructions
+Recipe 1,Gluten-Free,"Potato, Onion, Chocolate, Cheese, Milk",40,Step 1: Prepare Potato. Step 2: Add Onion. Step 3: Cook and serve.
+Recipe 2,Drinks,"Milk, Eggs, Flour, Onion",48,Step 1: Prepare Milk. Step 2: Add Eggs. Step 3: Cook and serve.
+Recipe 3,Gluten-Free,"Milk, Flour, Pasta",90,Step 1: Prepare Milk. Step 2: Add Flour. Step 3: Cook and serve.
+Recipe 4,Vegetarian,"Fish, Garlic, Sugar, Tomato",35,Step 1: Prepare Fish. Step 2: Add Garlic. Step 3: Cook and serve.
+Recipe 5,Lunch,"Mushroom, Sugar, Garlic, Chicken, Chocolate, Butter, Carrot",70,Step 1: Prepare Mushroom. Step 2: Add Sugar. Step 3: Cook and serve.
+Recipe 6,Vegetarian,"Butter, Garlic, Beef, Spinach, Chocolate",45,Step 1: Prepare Butter. Step 2: Add Garlic. Step 3: Cook and serve.
+Recipe 7,Vegetarian,"Milk, Chocolate, Chicken, Spinach",65,Step 1: Prepare Milk. Step 2: Add Chocolate. Step 3: Cook and serve.
+Recipe 8,Breakfast,"Spinach, Tomato, Onion, Fish",38,Step 1: Prepare Spinach. Step 2: Add Tomato. Step 3: Cook and serve.
+Recipe 9,Dinner,"Onion, Eggs, Beef",18,Step 1: Prepare Onion. Step 2: Add Eggs. Step 3: Cook and serve.
+Recipe 10,Drinks,"Chocolate, Rice, Potato, Milk, Carrot",32,Step 1: Prepare Chocolate. Step 2: Add Rice. Step 3: Cook and serve.
+Recipe 11,Lunch,"Spinach, Tomato, Mushroom, Pork",63,Step 1: Prepare Spinach. Step 2: Add Tomato. Step 3: Cook and serve.
+Recipe 12,Lunch,"Carrot, Butter, Onion",49,Step 1: Prepare Carrot. Step 2: Add Butter. Step 3: Cook and serve.
+Recipe 13,Drinks,"Milk, Pork, Garlic, Onion",75,Step 1: Prepare Milk. Step 2: Add Pork. Step 3: Cook and serve.
+Recipe 14,Lunch,"Flour, Eggs, Tomato, Pork, Pasta, Butter",22,Step 1: Prepare Flour. Step 2: Add Eggs. Step 3: Cook and serve.
+Recipe 15,Dessert,"Potato, Beef, Flour, Spinach, Mushroom, Pork, Cheese",64,Step 1: Prepare Potato. Step 2: Add Beef. Step 3: Cook and serve.
+Recipe 16,Drinks,"Chocolate, Milk, Pasta",57,Step 1: Prepare Chocolate. Step 2: Add Milk. Step 3: Cook and serve.
+Recipe 17,Dinner,"Sugar, Flour, Fish, Tomato, Pasta, Mushroom, Chocolate",34,Step 1: Prepare Sugar. Step 2: Add Flour. Step 3: Cook and serve.
+Recipe 18,Breakfast,"Onion, Butter, Chocolate, Fish, Pork",49,Step 1: Prepare Onion. Step 2: Add Butter. Step 3: Cook and serve.
+Recipe 19,Dinner,"Eggs, Butter, Pasta, Chocolate",15,Step 1: Prepare Eggs. Step 2: Add Butter. Step 3: Cook and serve.
+Recipe 20,Snacks,"Spinach, Eggs, Flour, Pasta",83,Step 1: Prepare Spinach. Step 2: Add Eggs. Step 3: Cook and serve.
+Recipe 21,Snacks,"Potato, Fish, Pasta",61,Step 1: Prepare Potato. Step 2: Add Fish. Step 3: Cook and serve.
+Recipe 22,Gluten-Free,"Beef, Chicken, Pork, Potato",17,Step 1: Prepare Beef. Step 2: Add Chicken. Step 3: Cook and serve.
+Recipe 23,Dessert,"Flour, Chocolate, Cheese, Butter, Onion",57,Step 1: Prepare Flour. Step 2: Add Chocolate. Step 3: Cook and serve.
+Recipe 24,Lunch,"Pasta, Onion, Mushroom, Tomato",43,Step 1: Prepare Pasta. Step 2: Add Onion. Step 3: Cook and serve.
+Recipe 25,Dinner,"Mushroom, Cheese, Eggs, Butter",68,Step 1: Prepare Mushroom. Step 2: Add Cheese. Step 3: Cook and serve.
+Recipe 26,Vegetarian,"Carrot, Potato, Garlic, Chicken, Butter",60,Step 1: Prepare Carrot. Step 2: Add Potato. Step 3: Cook and serve.
+Recipe 27,Drinks,"Tomato, Beef, Eggs",31,Step 1: Prepare Tomato. Step 2: Add Beef. Step 3: Cook and serve.
+Recipe 28,Lunch,"Flour, Mushroom, Eggs, Beef, Fish, Potato",55,Step 1: Prepare Flour. Step 2: Add Mushroom. Step 3: Cook and serve.
+Recipe 29,Dinner,"Onion, Chocolate, Spinach, Eggs, Fish",13,Step 1: Prepare Onion. Step 2: Add Chocolate. Step 3: Cook and serve.
+Recipe 30,Gluten-Free,"Cheese, Milk, Butter, Potato, Pasta, Fish",65,Step 1: Prepare Cheese. Step 2: Add Milk. Step 3: Cook and serve.
+Recipe 31,Dessert,"Carrot, Pork, Cheese, Pasta, Potato",81,Step 1: Prepare Carrot. Step 2: Add Pork. Step 3: Cook and serve.
+Recipe 32,Snacks,"Tomato, Carrot, Onion, Garlic, Milk, Pasta, Butter",28,Step 1: Prepare Tomato. Step 2: Add Carrot. Step 3: Cook and serve.
+Recipe 33,Dinner,"Cheese, Sugar, Tomato, Onion, Flour, Carrot, Beef",18,Step 1: Prepare Cheese. Step 2: Add Sugar. Step 3: Cook and serve.
+Recipe 34,Dinner,"Butter, Milk, Spinach, Onion, Eggs, Tomato",63,Step 1: Prepare Butter. Step 2: Add Milk. Step 3: Cook and serve.
+Recipe 35,Vegetarian,"Tomato, Garlic, Beef",40,Step 1: Prepare Tomato. Step 2: Add Garlic. Step 3: Cook and serve.
+Recipe 36,Dinner,"Mushroom, Cheese, Milk, Rice",19,Step 1: Prepare Mushroom. Step 2: Add Cheese. Step 3: Cook and serve.
+Recipe 37,Lunch,"Pasta, Butter, Chocolate",27,Step 1: Prepare Pasta. Step 2: Add Butter. Step 3: Cook and serve.
+Recipe 38,Vegan,"Tomato, Eggs, Spinach, Garlic, Chocolate",12,Step 1: Prepare Tomato. Step 2: Add Eggs. Step 3: Cook and serve.
+Recipe 39,Snacks,"Fish, Pork, Carrot, Spinach, Mushroom",76,Step 1: Prepare Fish. Step 2: Add Pork. Step 3: Cook and serve.
+Recipe 40,Breakfast,"Eggs, Fish, Sugar, Chocolate, Mushroom, Carrot, Pork",36,Step 1: Prepare Eggs. Step 2: Add Fish. Step 3: Cook and serve.
+Recipe 41,Dessert,"Potato, Pork, Mushroom, Rice, Chicken, Flour, Sugar",76,Step 1: Prepare Potato. Step 2: Add Pork. Step 3: Cook and serve.
+Recipe 42,Dessert,"Chicken, Onion, Beef, Milk, Cheese",51,Step 1: Prepare Chicken. Step 2: Add Onion. Step 3: Cook and serve.
+Recipe 43,Vegetarian,"Pasta, Beef, Flour",77,Step 1: Prepare Pasta. Step 2: Add Beef. Step 3: Cook and serve.
+Recipe 44,Vegan,"Sugar, Flour, Mushroom, Pork, Chocolate, Chicken",59,Step 1: Prepare Sugar. Step 2: Add Flour. Step 3: Cook and serve.
+Recipe 45,Drinks,"Fish, Chicken, Flour",89,Step 1: Prepare Fish. Step 2: Add Chicken. Step 3: Cook and serve.
+Recipe 46,Vegan,"Mushroom, Butter, Flour",84,Step 1: Prepare Mushroom. Step 2: Add Butter. Step 3: Cook and serve.
+Recipe 47,Drinks,"Chocolate, Cheese, Beef",46,Step 1: Prepare Chocolate. Step 2: Add Cheese. Step 3: Cook and serve.
+Recipe 48,Drinks,"Onion, Milk, Mushroom, Fish, Chocolate, Flour, Pasta",35,Step 1: Prepare Onion. Step 2: Add Milk. Step 3: Cook and serve.
+Recipe 49,Drinks,"Potato, Cheese, Milk, Butter, Beef, Chicken",80,Step 1: Prepare Potato. Step 2: Add Cheese. Step 3: Cook and serve.
+Recipe 50,Vegan,"Eggs, Butter, Pork",58,Step 1: Prepare Eggs. Step 2: Add Butter. Step 3: Cook and serve.
+Recipe 51,Breakfast,"Tomato, Onion, Beef, Carrot, Spinach",34,Step 1: Prepare Tomato. Step 2: Add Onion. Step 3: Cook and serve.
+Recipe 52,Dessert,"Potato, Tomato, Pork, Cheese, Fish",68,Step 1: Prepare Potato. Step 2: Add Tomato. Step 3: Cook and serve.
+Recipe 53,Snacks,"Fish, Mushroom, Flour, Onion",51,Step 1: Prepare Fish. Step 2: Add Mushroom. Step 3: Cook and serve.
+Recipe 54,Gluten-Free,"Mushroom, Rice, Fish, Sugar",42,Step 1: Prepare Mushroom. Step 2: Add Rice. Step 3: Cook and serve.
+Recipe 55,Vegetarian,"Cheese, Carrot, Onion, Chocolate, Eggs, Pasta",78,Step 1: Prepare Cheese. Step 2: Add Carrot. Step 3: Cook and serve.
+Recipe 56,Dessert,"Garlic, Sugar, Flour, Pasta, Eggs, Beef, Carrot",54,Step 1: Prepare Garlic. Step 2: Add Sugar. Step 3: Cook and serve.
+Recipe 57,Lunch,"Garlic, Milk, Sugar, Spinach",48,Step 1: Prepare Garlic. Step 2: Add Milk. Step 3: Cook and serve.
+Recipe 58,Breakfast,"Beef, Fish, Chicken, Rice",28,Step 1: Prepare Beef. Step 2: Add Fish. Step 3: Cook and serve.
+Recipe 59,Dinner,"Mushroom, Onion, Milk, Sugar, Fish",28,Step 1: Prepare Mushroom. Step 2: Add Onion. Step 3: Cook and serve.
+Recipe 60,Vegetarian,"Sugar, Pork, Pasta, Cheese, Rice, Mushroom",31,Step 1: Prepare Sugar. Step 2: Add Pork. Step 3: Cook and serve.
+Recipe 61,Drinks,"Eggs, Garlic, Potato",33,Step 1: Prepare Eggs. Step 2: Add Garlic. Step 3: Cook and serve.
+Recipe 62,Vegetarian,"Milk, Tomato, Beef, Potato, Sugar, Flour",81,Step 1: Prepare Milk. Step 2: Add Tomato. Step 3: Cook and serve.
+Recipe 63,Lunch,"Eggs, Chicken, Tomato, Onion, Milk, Pork, Pasta",38,Step 1: Prepare Eggs. Step 2: Add Chicken. Step 3: Cook and serve.
+Recipe 64,Dessert,"Carrot, Rice, Beef, Fish, Milk, Butter, Eggs",54,Step 1: Prepare Carrot. Step 2: Add Rice. Step 3: Cook and serve.
+Recipe 65,Snacks,"Chicken, Garlic, Mushroom, Onion",31,Step 1: Prepare Chicken. Step 2: Add Garlic. Step 3: Cook and serve.
+Recipe 66,Vegan,"Garlic, Mushroom, Chocolate, Onion, Pasta, Sugar, Tomato",59,Step 1: Prepare Garlic. Step 2: Add Mushroom. Step 3: Cook and serve.
+Recipe 67,Gluten-Free,"Eggs, Potato, Tomato, Spinach, Flour",54,Step 1: Prepare Eggs. Step 2: Add Potato. Step 3: Cook and serve.
+Recipe 68,Drinks,"Pasta, Butter, Chocolate",31,Step 1: Prepare Pasta. Step 2: Add Butter. Step 3: Cook and serve.
+Recipe 69,Drinks,"Eggs, Butter, Pork, Milk, Potato, Tomato, Cheese",23,Step 1: Prepare Eggs. Step 2: Add Butter. Step 3: Cook and serve.
+Recipe 70,Dinner,"Chicken, Tomato, Fish, Onion, Butter",42,Step 1: Prepare Chicken. Step 2: Add Tomato. Step 3: Cook and serve.
+Recipe 71,Vegan,"Garlic, Spinach, Beef",10,Step 1: Prepare Garlic. Step 2: Add Spinach. Step 3: Cook and serve.
+Recipe 72,Vegan,"Potato, Garlic, Chocolate, Butter",35,Step 1: Prepare Potato. Step 2: Add Garlic. Step 3: Cook and serve.
+Recipe 73,Snacks,"Milk, Rice, Spinach, Potato, Mushroom, Carrot, Chicken",44,Step 1: Prepare Milk. Step 2: Add Rice. Step 3: Cook and serve.
+Recipe 74,Breakfast,"Cheese, Sugar, Milk, Beef, Tomato, Chicken",75,Step 1: Prepare Cheese. Step 2: Add Sugar. Step 3: Cook and serve.
+Recipe 75,Drinks,"Rice, Potato, Pasta, Chicken, Carrot, Cheese",39,Step 1: Prepare Rice. Step 2: Add Potato. Step 3: Cook and serve.
+Recipe 76,Vegetarian,"Pork, Mushroom, Pasta, Onion, Butter",18,Step 1: Prepare Pork. Step 2: Add Mushroom. Step 3: Cook and serve.
+Recipe 77,Snacks,"Onion, Mushroom, Sugar, Rice, Cheese",46,Step 1: Prepare Onion. Step 2: Add Mushroom. Step 3: Cook and serve.
+Recipe 78,Snacks,"Spinach, Onion, Rice, Mushroom",15,Step 1: Prepare Spinach. Step 2: Add Onion. Step 3: Cook and serve.
+Recipe 79,Breakfast,"Onion, Tomato, Chocolate, Fish, Spinach, Potato, Mushroom",72,Step 1: Prepare Onion. Step 2: Add Tomato. Step 3: Cook and serve.
+Recipe 80,Gluten-Free,"Sugar, Spinach, Chicken",42,Step 1: Prepare Sugar. Step 2: Add Spinach. Step 3: Cook and serve.
+Recipe 81,Dessert,"Chocolate, Potato, Spinach, Rice",67,Step 1: Prepare Chocolate. Step 2: Add Potato. Step 3: Cook and serve.
+Recipe 82,Vegetarian,"Fish, Mushroom, Potato, Eggs, Pork, Beef, Chocolate",77,Step 1: Prepare Fish. Step 2: Add Mushroom. Step 3: Cook and serve.
+Recipe 83,Lunch,"Pasta, Chicken, Flour, Garlic, Carrot, Eggs, Potato",46,Step 1: Prepare Pasta. Step 2: Add Chicken. Step 3: Cook and serve.
+Recipe 84,Breakfast,"Chicken, Flour, Potato, Cheese, Mushroom, Onion",53,Step 1: Prepare Chicken. Step 2: Add Flour. Step 3: Cook and serve.
+Recipe 85,Gluten-Free,"Milk, Chicken, Garlic",45,Step 1: Prepare Milk. Step 2: Add Chicken. Step 3: Cook and serve.
+Recipe 86,Lunch,"Beef, Pasta, Tomato, Pork",27,Step 1: Prepare Beef. Step 2: Add Pasta. Step 3: Cook and serve.
+Recipe 87,Gluten-Free,"Onion, Pork, Pasta, Rice, Beef",12,Step 1: Prepare Onion. Step 2: Add Pork. Step 3: Cook and serve.
+Recipe 88,Vegetarian,"Garlic, Pork, Flour, Milk, Butter",37,Step 1: Prepare Garlic. Step 2: Add Pork. Step 3: Cook and serve.
+Recipe 89,Lunch,"Chocolate, Onion, Pasta",78,Step 1: Prepare Chocolate. Step 2: Add Onion. Step 3: Cook and serve.
+Recipe 90,Snacks,"Onion, Chocolate, Milk, Spinach",43,Step 1: Prepare Onion. Step 2: Add Chocolate. Step 3: Cook and serve.
+Recipe 91,Drinks,"Milk, Potato, Flour, Beef, Butter, Pork, Eggs",48,Step 1: Prepare Milk. Step 2: Add Potato. Step 3: Cook and serve.
+Recipe 92,Vegetarian,"Chicken, Pasta, Butter",69,Step 1: Prepare Chicken. Step 2: Add Pasta. Step 3: Cook and serve.
+Recipe 93,Dinner,"Chicken, Chocolate, Potato, Pasta, Fish, Rice, Eggs",40,Step 1: Prepare Chicken. Step 2: Add Chocolate. Step 3: Cook and serve.
+Recipe 94,Vegan,"Milk, Chocolate, Fish, Cheese, Carrot",66,Step 1: Prepare Milk. Step 2: Add Chocolate. Step 3: Cook and serve.
+Recipe 95,Lunch,"Chicken, Milk, Fish, Rice, Beef, Chocolate, Butter",79,Step 1: Prepare Chicken. Step 2: Add Milk. Step 3: Cook and serve.
+Recipe 96,Lunch,"Butter, Cheese, Milk, Eggs",77,Step 1: Prepare Butter. Step 2: Add Cheese. Step 3: Cook and serve.
+Recipe 97,Dessert,"Rice, Potato, Chicken, Spinach",34,Step 1: Prepare Rice. Step 2: Add Potato. Step 3: Cook and serve.
+Recipe 98,Lunch,"Mushroom, Tomato, Rice, Milk, Eggs, Chocolate, Beef",12,Step 1: Prepare Mushroom. Step 2: Add Tomato. Step 3: Cook and serve.
+Recipe 99,Snacks,"Milk, Onion, Spinach, Beef",79,Step 1: Prepare Milk. Step 2: Add Onion. Step 3: Cook and serve.
+Recipe 100,Vegetarian,"Butter, Mushroom, Chicken",66,Step 1: Prepare Butter. Step 2: Add Mushroom. Step 3: Cook and serve.
+Recipe 101,Dessert,"Potato, Tomato, Pork, Spinach, Sugar, Flour, Beef",27,Step 1: Prepare Potato. Step 2: Add Tomato. Step 3: Cook and serve.
+Recipe 102,Lunch,"Flour, Mushroom, Tomato, Sugar, Potato, Fish",72,Step 1: Prepare Flour. Step 2: Add Mushroom. Step 3: Cook and serve.
+Recipe 103,Breakfast,"Chicken, Garlic, Cheese, Fish, Eggs, Pasta, Chocolate",86,Step 1: Prepare Chicken. Step 2: Add Garlic. Step 3: Cook and serve.
+Recipe 104,Vegan,"Flour, Pork, Beef, Carrot, Garlic, Butter",33,Step 1: Prepare Flour. Step 2: Add Pork. Step 3: Cook and serve.
+Recipe 105,Dinner,"Beef, Onion, Spinach, Cheese, Rice, Carrot, Fish",72,Step 1: Prepare Beef. Step 2: Add Onion. Step 3: Cook and serve.
+Recipe 106,Vegetarian,"Cheese, Tomato, Chocolate, Pasta, Mushroom, Eggs, Fish",73,Step 1: Prepare Cheese. Step 2: Add Tomato. Step 3: Cook and serve.
+Recipe 107,Dinner,"Rice, Mushroom, Flour",60,Step 1: Prepare Rice. Step 2: Add Mushroom. Step 3: Cook and serve.
+Recipe 108,Gluten-Free,"Pork, Flour, Chicken, Butter, Garlic, Sugar",29,Step 1: Prepare Pork. Step 2: Add Flour. Step 3: Cook and serve.
+Recipe 109,Breakfast,"Potato, Cheese, Eggs, Chicken, Onion",89,Step 1: Prepare Potato. Step 2: Add Cheese. Step 3: Cook and serve.
+Recipe 110,Vegetarian,"Garlic, Chicken, Milk, Cheese, Pasta",39,Step 1: Prepare Garlic. Step 2: Add Chicken. Step 3: Cook and serve.
+Recipe 111,Vegan,"Butter, Cheese, Tomato, Carrot, Eggs, Milk",51,Step 1: Prepare Butter. Step 2: Add Cheese. Step 3: Cook and serve.
+Recipe 112,Breakfast,"Pork, Spinach, Fish, Chicken",21,Step 1: Prepare Pork. Step 2: Add Spinach. Step 3: Cook and serve.
+Recipe 113,Snacks,"Flour, Spinach, Cheese, Garlic, Pork, Potato",51,Step 1: Prepare Flour. Step 2: Add Spinach. Step 3: Cook and serve.
+Recipe 114,Dessert,"Spinach, Pasta, Beef, Rice, Sugar, Onion, Milk",84,Step 1: Prepare Spinach. Step 2: Add Pasta. Step 3: Cook and serve.
+Recipe 115,Gluten-Free,"Garlic, Sugar, Butter, Chicken, Beef, Pork",64,Step 1: Prepare Garlic. Step 2: Add Sugar. Step 3: Cook and serve.
+Recipe 116,Vegan,"Pork, Carrot, Tomato, Spinach, Garlic, Pasta",43,Step 1: Prepare Pork. Step 2: Add Carrot. Step 3: Cook and serve.
+Recipe 117,Drinks,"Butter, Beef, Fish, Pasta, Sugar, Pork, Tomato",44,Step 1: Prepare Butter. Step 2: Add Beef. Step 3: Cook and serve.
+Recipe 118,Vegan,"Butter, Potato, Cheese, Beef, Garlic, Spinach, Mushroom",15,Step 1: Prepare Butter. Step 2: Add Potato. Step 3: Cook and serve.
+Recipe 119,Dessert,"Cheese, Garlic, Eggs, Butter",68,Step 1: Prepare Cheese. Step 2: Add Garlic. Step 3: Cook and serve.
+Recipe 120,Snacks,"Cheese, Eggs, Potato, Beef, Fish, Tomato",43,Step 1: Prepare Cheese. Step 2: Add Eggs. Step 3: Cook and serve.
+Recipe 121,Snacks,"Potato, Milk, Flour",53,Step 1: Prepare Potato. Step 2: Add Milk. Step 3: Cook and serve.
+Recipe 122,Dinner,"Cheese, Butter, Fish, Chicken, Beef, Spinach",78,Step 1: Prepare Cheese. Step 2: Add Butter. Step 3: Cook and serve.
+Recipe 123,Dessert,"Eggs, Garlic, Sugar, Fish",72,Step 1: Prepare Eggs. Step 2: Add Garlic. Step 3: Cook and serve.
+Recipe 124,Vegetarian,"Garlic, Chocolate, Potato, Mushroom, Carrot",18,Step 1: Prepare Garlic. Step 2: Add Chocolate. Step 3: Cook and serve.
+Recipe 125,Vegetarian,"Tomato, Potato, Pasta, Beef, Chocolate",90,Step 1: Prepare Tomato. Step 2: Add Potato. Step 3: Cook and serve.
+Recipe 126,Dinner,"Carrot, Chicken, Eggs, Rice, Potato",89,Step 1: Prepare Carrot. Step 2: Add Chicken. Step 3: Cook and serve.
+Recipe 127,Snacks,"Rice, Spinach, Flour, Pork",65,Step 1: Prepare Rice. Step 2: Add Spinach. Step 3: Cook and serve.
+Recipe 128,Dinner,"Onion, Tomato, Sugar, Eggs",89,Step 1: Prepare Onion. Step 2: Add Tomato. Step 3: Cook and serve.
+Recipe 129,Drinks,"Spinach, Chicken, Milk, Garlic, Sugar",72,Step 1: Prepare Spinach. Step 2: Add Chicken. Step 3: Cook and serve.
+Recipe 130,Drinks,"Rice, Tomato, Butter",63,Step 1: Prepare Rice. Step 2: Add Tomato. Step 3: Cook and serve.
+Recipe 131,Drinks,"Butter, Beef, Rice, Fish",84,Step 1: Prepare Butter. Step 2: Add Beef. Step 3: Cook and serve.
+Recipe 132,Snacks,"Butter, Mushroom, Tomato",90,Step 1: Prepare Butter. Step 2: Add Mushroom. Step 3: Cook and serve.
+Recipe 133,Vegan,"Milk, Flour, Butter, Garlic, Fish, Beef, Chocolate",88,Step 1: Prepare Milk. Step 2: Add Flour. Step 3: Cook and serve.
+Recipe 134,Drinks,"Carrot, Spinach, Milk, Chicken, Onion",85,Step 1: Prepare Carrot. Step 2: Add Spinach. Step 3: Cook and serve.
+Recipe 135,Breakfast,"Rice, Mushroom, Chocolate",62,Step 1: Prepare Rice. Step 2: Add Mushroom. Step 3: Cook and serve.
+Recipe 136,Dinner,"Chocolate, Potato, Garlic, Rice, Mushroom, Milk",43,Step 1: Prepare Chocolate. Step 2: Add Potato. Step 3: Cook and serve.
+Recipe 137,Gluten-Free,"Tomato, Potato, Onion, Flour, Chocolate, Pasta, Cheese",67,Step 1: Prepare Tomato. Step 2: Add Potato. Step 3: Cook and serve.
+Recipe 138,Gluten-Free,"Cheese, Milk, Flour",53,Step 1: Prepare Cheese. Step 2: Add Milk. Step 3: Cook and serve.
+Recipe 139,Lunch,"Pork, Chocolate, Carrot, Cheese, Mushroom, Eggs, Potato",11,Step 1: Prepare Pork. Step 2: Add Chocolate. Step 3: Cook and serve.
+Recipe 140,Dinner,"Chocolate, Eggs, Sugar, Flour, Fish",26,Step 1: Prepare Chocolate. Step 2: Add Eggs. Step 3: Cook and serve.
+Recipe 141,Drinks,"Spinach, Beef, Potato",69,Step 1: Prepare Spinach. Step 2: Add Beef. Step 3: Cook and serve.
+Recipe 142,Breakfast,"Beef, Eggs, Potato, Garlic",82,Step 1: Prepare Beef. Step 2: Add Eggs. Step 3: Cook and serve.
+Recipe 143,Lunch,"Carrot, Fish, Tomato, Chicken, Spinach",72,Step 1: Prepare Carrot. Step 2: Add Fish. Step 3: Cook and serve.
+Recipe 144,Gluten-Free,"Milk, Chicken, Carrot, Eggs, Potato",16,Step 1: Prepare Milk. Step 2: Add Chicken. Step 3: Cook and serve.
+Recipe 145,Vegan,"Carrot, Fish, Potato, Chicken, Flour, Mushroom",76,Step 1: Prepare Carrot. Step 2: Add Fish. Step 3: Cook and serve.
+Recipe 146,Dinner,"Tomato, Eggs, Potato, Sugar, Onion, Pasta",47,Step 1: Prepare Tomato. Step 2: Add Eggs. Step 3: Cook and serve.
+Recipe 147,Gluten-Free,"Onion, Spinach, Fish, Eggs",83,Step 1: Prepare Onion. Step 2: Add Spinach. Step 3: Cook and serve.
+Recipe 148,Vegetarian,"Chicken, Spinach, Garlic, Sugar, Pork, Eggs, Tomato",10,Step 1: Prepare Chicken. Step 2: Add Spinach. Step 3: Cook and serve.
+Recipe 149,Vegetarian,"Flour, Butter, Garlic, Pork, Potato",66,Step 1: Prepare Flour. Step 2: Add Butter. Step 3: Cook and serve.
+Recipe 150,Snacks,"Potato, Rice, Flour",82,Step 1: Prepare Potato. Step 2: Add Rice. Step 3: Cook and serve.
+Recipe 151,Dessert,"Mushroom, Milk, Rice",65,Step 1: Prepare Mushroom. Step 2: Add Milk. Step 3: Cook and serve.
+Recipe 152,Vegetarian,"Flour, Chicken, Beef, Eggs, Pasta, Potato, Chocolate",65,Step 1: Prepare Flour. Step 2: Add Chicken. Step 3: Cook and serve.
+Recipe 153,Vegan,"Tomato, Milk, Spinach, Fish, Eggs, Garlic, Rice",89,Step 1: Prepare Tomato. Step 2: Add Milk. Step 3: Cook and serve.
+Recipe 154,Dinner,"Rice, Eggs, Mushroom, Flour, Pork, Beef, Garlic",89,Step 1: Prepare Rice. Step 2: Add Eggs. Step 3: Cook and serve.
+Recipe 155,Breakfast,"Pasta, Tomato, Spinach",32,Step 1: Prepare Pasta. Step 2: Add Tomato. Step 3: Cook and serve.
+Recipe 156,Drinks,"Spinach, Carrot, Pasta, Mushroom",29,Step 1: Prepare Spinach. Step 2: Add Carrot. Step 3: Cook and serve.
+Recipe 157,Dinner,"Garlic, Carrot, Fish",63,Step 1: Prepare Garlic. Step 2: Add Carrot. Step 3: Cook and serve.
+Recipe 158,Vegetarian,"Cheese, Butter, Flour",57,Step 1: Prepare Cheese. Step 2: Add Butter. Step 3: Cook and serve.
+Recipe 159,Dessert,"Rice, Chocolate, Flour, Eggs, Butter, Fish, Beef",54,Step 1: Prepare Rice. Step 2: Add Chocolate. Step 3: Cook and serve.
+Recipe 160,Vegan,"Potato, Pork, Milk, Eggs, Fish, Carrot, Garlic",71,Step 1: Prepare Potato. Step 2: Add Pork. Step 3: Cook and serve.
+Recipe 161,Snacks,"Cheese, Spinach, Beef, Eggs",77,Step 1: Prepare Cheese. Step 2: Add Spinach. Step 3: Cook and serve.
+Recipe 162,Dinner,"Carrot, Garlic, Beef, Sugar",68,Step 1: Prepare Carrot. Step 2: Add Garlic. Step 3: Cook and serve.
+Recipe 163,Vegan,"Sugar, Milk, Pasta, Beef, Tomato, Chicken",86,Step 1: Prepare Sugar. Step 2: Add Milk. Step 3: Cook and serve.
+Recipe 164,Gluten-Free,"Pork, Sugar, Fish, Milk, Rice, Eggs, Onion",43,Step 1: Prepare Pork. Step 2: Add Sugar. Step 3: Cook and serve.
+Recipe 165,Lunch,"Chocolate, Carrot, Flour, Chicken, Rice, Sugar",24,Step 1: Prepare Chocolate. Step 2: Add Carrot. Step 3: Cook and serve.
+Recipe 166,Dinner,"Eggs, Chocolate, Rice, Carrot",36,Step 1: Prepare Eggs. Step 2: Add Chocolate. Step 3: Cook and serve.
+Recipe 167,Dinner,"Chicken, Chocolate, Butter, Sugar",85,Step 1: Prepare Chicken. Step 2: Add Chocolate. Step 3: Cook and serve.
+Recipe 168,Vegan,"Mushroom, Eggs, Sugar",28,Step 1: Prepare Mushroom. Step 2: Add Eggs. Step 3: Cook and serve.
+Recipe 169,Dessert,"Rice, Spinach, Beef, Milk, Onion, Carrot, Pasta",78,Step 1: Prepare Rice. Step 2: Add Spinach. Step 3: Cook and serve.
+Recipe 170,Vegan,"Fish, Rice, Garlic, Sugar, Onion, Tomato, Chicken",42,Step 1: Prepare Fish. Step 2: Add Rice. Step 3: Cook and serve.
+Recipe 171,Drinks,"Spinach, Chicken, Pork, Rice, Flour, Fish",88,Step 1: Prepare Spinach. Step 2: Add Chicken. Step 3: Cook and serve.
+Recipe 172,Lunch,"Eggs, Tomato, Chicken, Garlic, Flour, Onion",57,Step 1: Prepare Eggs. Step 2: Add Tomato. Step 3: Cook and serve.
+Recipe 173,Lunch,"Sugar, Flour, Mushroom, Chocolate, Onion, Garlic, Spinach",83,Step 1: Prepare Sugar. Step 2: Add Flour. Step 3: Cook and serve.
+Recipe 174,Drinks,"Milk, Potato, Carrot, Onion, Fish, Mushroom, Pork",37,Step 1: Prepare Milk. Step 2: Add Potato. Step 3: Cook and serve.
+Recipe 175,Lunch,"Eggs, Beef, Milk, Pasta, Potato, Garlic, Carrot",87,Step 1: Prepare Eggs. Step 2: Add Beef. Step 3: Cook and serve.
+Recipe 176,Lunch,"Potato, Beef, Chicken, Tomato, Milk, Onion, Butter",87,Step 1: Prepare Potato. Step 2: Add Beef. Step 3: Cook and serve.
+Recipe 177,Dessert,"Potato, Fish, Sugar, Eggs, Butter",10,Step 1: Prepare Potato. Step 2: Add Fish. Step 3: Cook and serve.
+Recipe 178,Dessert,"Cheese, Beef, Onion, Pork, Spinach, Rice, Fish",38,Step 1: Prepare Cheese. Step 2: Add Beef. Step 3: Cook and serve.
+Recipe 179,Dinner,"Onion, Pasta, Carrot",65,Step 1: Prepare Onion. Step 2: Add Pasta. Step 3: Cook and serve.
+Recipe 180,Gluten-Free,"Beef, Chicken, Spinach, Flour, Chocolate, Milk, Carrot",74,Step 1: Prepare Beef. Step 2: Add Chicken. Step 3: Cook and serve.
+Recipe 181,Lunch,"Pork, Chocolate, Pasta, Butter",55,Step 1: Prepare Pork. Step 2: Add Chocolate. Step 3: Cook and serve.
+Recipe 182,Dessert,"Chicken, Sugar, Mushroom, Spinach, Butter",65,Step 1: Prepare Chicken. Step 2: Add Sugar. Step 3: Cook and serve.
+Recipe 183,Drinks,"Garlic, Mushroom, Sugar, Milk, Onion, Carrot",67,Step 1: Prepare Garlic. Step 2: Add Mushroom. Step 3: Cook and serve.
+Recipe 184,Vegan,"Pasta, Beef, Chocolate, Onion, Eggs, Fish, Garlic",79,Step 1: Prepare Pasta. Step 2: Add Beef. Step 3: Cook and serve.
+Recipe 185,Breakfast,"Fish, Spinach, Butter, Garlic",45,Step 1: Prepare Fish. Step 2: Add Spinach. Step 3: Cook and serve.
+Recipe 186,Drinks,"Fish, Pasta, Tomato",78,Step 1: Prepare Fish. Step 2: Add Pasta. Step 3: Cook and serve.
+Recipe 187,Dessert,"Pasta, Tomato, Mushroom, Rice",85,Step 1: Prepare Pasta. Step 2: Add Tomato. Step 3: Cook and serve.
+Recipe 188,Lunch,"Chocolate, Mushroom, Onion, Beef, Eggs, Rice, Potato",65,Step 1: Prepare Chocolate. Step 2: Add Mushroom. Step 3: Cook and serve.
+Recipe 189,Vegetarian,"Garlic, Pork, Chicken, Pasta",90,Step 1: Prepare Garlic. Step 2: Add Pork. Step 3: Cook and serve.
+Recipe 190,Gluten-Free,"Cheese, Chocolate, Flour",57,Step 1: Prepare Cheese. Step 2: Add Chocolate. Step 3: Cook and serve.
+Recipe 191,Dessert,"Eggs, Sugar, Rice",10,Step 1: Prepare Eggs. Step 2: Add Sugar. Step 3: Cook and serve.
+Recipe 192,Drinks,"Tomato, Carrot, Milk, Butter, Pasta, Chocolate, Cheese",20,Step 1: Prepare Tomato. Step 2: Add Carrot. Step 3: Cook and serve.
+Recipe 193,Dessert,"Flour, Milk, Butter, Carrot, Eggs, Mushroom",25,Step 1: Prepare Flour. Step 2: Add Milk. Step 3: Cook and serve.
+Recipe 194,Gluten-Free,"Beef, Chocolate, Flour, Fish",18,Step 1: Prepare Beef. Step 2: Add Chocolate. Step 3: Cook and serve.
+Recipe 195,Dessert,"Butter, Mushroom, Fish",33,Step 1: Prepare Butter. Step 2: Add Mushroom. Step 3: Cook and serve.
+Recipe 196,Vegan,"Flour, Tomato, Chicken, Pasta",59,Step 1: Prepare Flour. Step 2: Add Tomato. Step 3: Cook and serve.
+Recipe 197,Vegetarian,"Beef, Potato, Sugar, Tomato, Onion, Chocolate",21,Step 1: Prepare Beef. Step 2: Add Potato. Step 3: Cook and serve.
+Recipe 198,Drinks,"Butter, Pork, Potato",50,Step 1: Prepare Butter. Step 2: Add Pork. Step 3: Cook and serve.
+Recipe 199,Vegan,"Tomato, Chicken, Carrot, Flour, Rice, Pork",80,Step 1: Prepare Tomato. Step 2: Add Chicken. Step 3: Cook and serve.
+Recipe 200,Snacks,"Eggs, Flour, Spinach, Sugar, Cheese",80,Step 1: Prepare Eggs. Step 2: Add Flour. Step 3: Cook and serve.
+Recipe 201,Snacks,"Carrot, Mushroom, Sugar, Butter, Chicken, Tomato, Onion",36,Step 1: Prepare Carrot. Step 2: Add Mushroom. Step 3: Cook and serve.
+Recipe 202,Dessert,"Eggs, Chocolate, Butter",51,Step 1: Prepare Eggs. Step 2: Add Chocolate. Step 3: Cook and serve.
+Recipe 203,Lunch,"Carrot, Milk, Butter, Pork",31,Step 1: Prepare Carrot. Step 2: Add Milk. Step 3: Cook and serve.
+Recipe 204,Dessert,"Potato, Pasta, Tomato",54,Step 1: Prepare Potato. Step 2: Add Pasta. Step 3: Cook and serve.
+Recipe 205,Snacks,"Pork, Potato, Garlic, Sugar, Chocolate, Chicken, Carrot",10,Step 1: Prepare Pork. Step 2: Add Potato. Step 3: Cook and serve.
+Recipe 206,Drinks,"Butter, Garlic, Fish, Milk, Sugar, Mushroom",88,Step 1: Prepare Butter. Step 2: Add Garlic. Step 3: Cook and serve.
+Recipe 207,Dinner,"Onion, Butter, Eggs, Pork",75,Step 1: Prepare Onion. Step 2: Add Butter. Step 3: Cook and serve.
+Recipe 208,Vegetarian,"Butter, Garlic, Carrot, Onion, Rice, Potato, Flour",49,Step 1: Prepare Butter. Step 2: Add Garlic. Step 3: Cook and serve.
+Recipe 209,Dessert,"Milk, Chocolate, Sugar",62,Step 1: Prepare Milk. Step 2: Add Chocolate. Step 3: Cook and serve.
+Recipe 210,Drinks,"Tomato, Chicken, Pork",50,Step 1: Prepare Tomato. Step 2: Add Chicken. Step 3: Cook and serve.
+Recipe 211,Gluten-Free,"Sugar, Butter, Potato, Chicken, Eggs",32,Step 1: Prepare Sugar. Step 2: Add Butter. Step 3: Cook and serve.
+Recipe 212,Lunch,"Tomato, Beef, Spinach, Rice, Pasta",26,Step 1: Prepare Tomato. Step 2: Add Beef. Step 3: Cook and serve.
+Recipe 213,Drinks,"Chocolate, Onion, Mushroom, Butter, Pasta, Potato",45,Step 1: Prepare Chocolate. Step 2: Add Onion. Step 3: Cook and serve.
+Recipe 214,Gluten-Free,"Fish, Eggs, Tomato, Butter, Spinach, Flour, Onion",49,Step 1: Prepare Fish. Step 2: Add Eggs. Step 3: Cook and serve.
+Recipe 215,Dessert,"Flour, Garlic, Pasta, Potato",20,Step 1: Prepare Flour. Step 2: Add Garlic. Step 3: Cook and serve.
+Recipe 216,Drinks,"Cheese, Spinach, Chicken",13,Step 1: Prepare Cheese. Step 2: Add Spinach. Step 3: Cook and serve.
+Recipe 217,Dinner,"Cheese, Eggs, Mushroom",51,Step 1: Prepare Cheese. Step 2: Add Eggs. Step 3: Cook and serve.
+Recipe 218,Snacks,"Onion, Spinach, Beef, Mushroom",17,Step 1: Prepare Onion. Step 2: Add Spinach. Step 3: Cook and serve.
+Recipe 219,Vegan,"Butter, Rice, Spinach, Tomato, Potato, Sugar",59,Step 1: Prepare Butter. Step 2: Add Rice. Step 3: Cook and serve.
+Recipe 220,Dinner,"Spinach, Flour, Rice, Fish, Onion, Garlic",80,Step 1: Prepare Spinach. Step 2: Add Flour. Step 3: Cook and serve.
+Recipe 221,Vegetarian,"Chicken, Mushroom, Beef, Cheese, Sugar, Garlic",14,Step 1: Prepare Chicken. Step 2: Add Mushroom. Step 3: Cook and serve.
+Recipe 222,Dinner,"Pasta, Onion, Milk, Sugar, Mushroom",84,Step 1: Prepare Pasta. Step 2: Add Onion. Step 3: Cook and serve.
+Recipe 223,Snacks,"Spinach, Carrot, Beef, Garlic, Mushroom",13,Step 1: Prepare Spinach. Step 2: Add Carrot. Step 3: Cook and serve.
+Recipe 224,Snacks,"Chicken, Milk, Flour",25,Step 1: Prepare Chicken. Step 2: Add Milk. Step 3: Cook and serve.
+Recipe 225,Dessert,"Carrot, Flour, Mushroom, Eggs",16,Step 1: Prepare Carrot. Step 2: Add Flour. Step 3: Cook and serve.
+Recipe 226,Breakfast,"Eggs, Garlic, Butter, Onion",86,Step 1: Prepare Eggs. Step 2: Add Garlic. Step 3: Cook and serve.
+Recipe 227,Snacks,"Eggs, Mushroom, Onion",82,Step 1: Prepare Eggs. Step 2: Add Mushroom. Step 3: Cook and serve.
+Recipe 228,Drinks,"Pork, Potato, Sugar, Fish, Carrot",77,Step 1: Prepare Pork. Step 2: Add Potato. Step 3: Cook and serve.
+Recipe 229,Gluten-Free,"Cheese, Onion, Beef, Milk",47,Step 1: Prepare Cheese. Step 2: Add Onion. Step 3: Cook and serve.
+Recipe 230,Dessert,"Pork, Mushroom, Potato, Onion",76,Step 1: Prepare Pork. Step 2: Add Mushroom. Step 3: Cook and serve.
+Recipe 231,Drinks,"Beef, Pasta, Spinach",71,Step 1: Prepare Beef. Step 2: Add Pasta. Step 3: Cook and serve.
+Recipe 232,Drinks,"Cheese, Sugar, Onion, Tomato",60,Step 1: Prepare Cheese. Step 2: Add Sugar. Step 3: Cook and serve.
+Recipe 233,Dessert,"Cheese, Sugar, Rice",56,Step 1: Prepare Cheese. Step 2: Add Sugar. Step 3: Cook and serve.
+Recipe 234,Lunch,"Eggs, Cheese, Garlic, Spinach, Onion",39,Step 1: Prepare Eggs. Step 2: Add Cheese. Step 3: Cook and serve.
+Recipe 235,Dinner,"Pork, Fish, Chocolate, Sugar, Tomato, Mushroom",37,Step 1: Prepare Pork. Step 2: Add Fish. Step 3: Cook and serve.
+Recipe 236,Lunch,"Chicken, Chocolate, Milk, Fish, Sugar",25,Step 1: Prepare Chicken. Step 2: Add Chocolate. Step 3: Cook and serve.
+Recipe 237,Dinner,"Chocolate, Sugar, Carrot, Potato, Chicken",79,Step 1: Prepare Chocolate. Step 2: Add Sugar. Step 3: Cook and serve.
+Recipe 238,Vegan,"Pork, Rice, Butter, Fish, Garlic, Eggs, Milk",73,Step 1: Prepare Pork. Step 2: Add Rice. Step 3: Cook and serve.
+Recipe 239,Snacks,"Spinach, Onion, Carrot",21,Step 1: Prepare Spinach. Step 2: Add Onion. Step 3: Cook and serve.
+Recipe 240,Lunch,"Beef, Fish, Pork",39,Step 1: Prepare Beef. Step 2: Add Fish. Step 3: Cook and serve.
+Recipe 241,Vegetarian,"Butter, Carrot, Eggs, Chocolate, Garlic",22,Step 1: Prepare Butter. Step 2: Add Carrot. Step 3: Cook and serve.
+Recipe 242,Snacks,"Eggs, Chocolate, Pork, Cheese, Carrot, Flour",66,Step 1: Prepare Eggs. Step 2: Add Chocolate. Step 3: Cook and serve.
+Recipe 243,Vegan,"Potato, Flour, Onion, Mushroom, Chicken",44,Step 1: Prepare Potato. Step 2: Add Flour. Step 3: Cook and serve.
+Recipe 244,Gluten-Free,"Milk, Potato, Spinach, Garlic, Onion, Chocolate",14,Step 1: Prepare Milk. Step 2: Add Potato. Step 3: Cook and serve.
+Recipe 245,Gluten-Free,"Chocolate, Chicken, Cheese, Garlic, Pasta, Onion",30,Step 1: Prepare Chocolate. Step 2: Add Chicken. Step 3: Cook and serve.
+Recipe 246,Dinner,"Sugar, Mushroom, Beef",75,Step 1: Prepare Sugar. Step 2: Add Mushroom. Step 3: Cook and serve.
+Recipe 247,Dinner,"Chocolate, Onion, Spinach",38,Step 1: Prepare Chocolate. Step 2: Add Onion. Step 3: Cook and serve.
+Recipe 248,Vegetarian,"Pork, Flour, Fish, Eggs, Beef, Chocolate, Sugar",18,Step 1: Prepare Pork. Step 2: Add Flour. Step 3: Cook and serve.
+Recipe 249,Lunch,"Onion, Butter, Fish, Cheese, Carrot, Sugar",76,Step 1: Prepare Onion. Step 2: Add Butter. Step 3: Cook and serve.
+Recipe 250,Gluten-Free,"Chocolate, Eggs, Cheese",88,Step 1: Prepare Chocolate. Step 2: Add Eggs. Step 3: Cook and serve.
+Recipe 251,Lunch,"Cheese, Pork, Eggs, Spinach, Milk",80,Step 1: Prepare Cheese. Step 2: Add Pork. Step 3: Cook and serve.
+Recipe 252,Vegan,"Chocolate, Milk, Tomato",80,Step 1: Prepare Chocolate. Step 2: Add Milk. Step 3: Cook and serve.
+Recipe 253,Lunch,"Rice, Onion, Eggs",52,Step 1: Prepare Rice. Step 2: Add Onion. Step 3: Cook and serve.
+Recipe 254,Vegan,"Chocolate, Cheese, Flour, Pasta, Beef",46,Step 1: Prepare Chocolate. Step 2: Add Cheese. Step 3: Cook and serve.
+Recipe 255,Gluten-Free,"Sugar, Garlic, Chocolate",36,Step 1: Prepare Sugar. Step 2: Add Garlic. Step 3: Cook and serve.
+Recipe 256,Drinks,"Chicken, Mushroom, Milk",50,Step 1: Prepare Chicken. Step 2: Add Mushroom. Step 3: Cook and serve.
+Recipe 257,Lunch,"Cheese, Carrot, Chocolate, Eggs",72,Step 1: Prepare Cheese. Step 2: Add Carrot. Step 3: Cook and serve.
+Recipe 258,Drinks,"Carrot, Chicken, Sugar, Spinach",53,Step 1: Prepare Carrot. Step 2: Add Chicken. Step 3: Cook and serve.
+Recipe 259,Lunch,"Potato, Tomato, Flour",87,Step 1: Prepare Potato. Step 2: Add Tomato. Step 3: Cook and serve.
+Recipe 260,Dessert,"Carrot, Mushroom, Garlic, Flour",20,Step 1: Prepare Carrot. Step 2: Add Mushroom. Step 3: Cook and serve.
+Recipe 261,Drinks,"Carrot, Pasta, Chicken, Pork",40,Step 1: Prepare Carrot. Step 2: Add Pasta. Step 3: Cook and serve.
+Recipe 262,Breakfast,"Flour, Pasta, Tomato, Pork, Butter",63,Step 1: Prepare Flour. Step 2: Add Pasta. Step 3: Cook and serve.
+Recipe 263,Snacks,"Onion, Butter, Sugar",26,Step 1: Prepare Onion. Step 2: Add Butter. Step 3: Cook and serve.
+Recipe 264,Dessert,"Pasta, Cheese, Fish",53,Step 1: Prepare Pasta. Step 2: Add Cheese. Step 3: Cook and serve.
+Recipe 265,Dinner,"Onion, Potato, Cheese, Rice, Sugar",39,Step 1: Prepare Onion. Step 2: Add Potato. Step 3: Cook and serve.
+Recipe 266,Lunch,"Sugar, Chocolate, Spinach, Carrot, Mushroom",48,Step 1: Prepare Sugar. Step 2: Add Chocolate. Step 3: Cook and serve.
+Recipe 267,Snacks,"Pork, Eggs, Butter",50,Step 1: Prepare Pork. Step 2: Add Eggs. Step 3: Cook and serve.
+Recipe 268,Vegetarian,"Eggs, Sugar, Tomato",81,Step 1: Prepare Eggs. Step 2: Add Sugar. Step 3: Cook and serve.
+Recipe 269,Lunch,"Butter, Spinach, Tomato, Pork, Sugar, Eggs",71,Step 1: Prepare Butter. Step 2: Add Spinach. Step 3: Cook and serve.
+Recipe 270,Dinner,"Potato, Sugar, Pork, Carrot",32,Step 1: Prepare Potato. Step 2: Add Sugar. Step 3: Cook and serve.
+Recipe 271,Breakfast,"Chicken, Beef, Potato",45,Step 1: Prepare Chicken. Step 2: Add Beef. Step 3: Cook and serve.
+Recipe 272,Vegetarian,"Sugar, Mushroom, Chicken, Rice, Garlic, Flour, Tomato",55,Step 1: Prepare Sugar. Step 2: Add Mushroom. Step 3: Cook and serve.
+Recipe 273,Dinner,"Flour, Milk, Butter, Carrot, Eggs",82,Step 1: Prepare Flour. Step 2: Add Milk. Step 3: Cook and serve.
+Recipe 274,Drinks,"Carrot, Fish, Onion, Rice, Potato, Spinach, Chocolate",82,Step 1: Prepare Carrot. Step 2: Add Fish. Step 3: Cook and serve.
+Recipe 275,Vegetarian,"Milk, Eggs, Potato",37,Step 1: Prepare Milk. Step 2: Add Eggs. Step 3: Cook and serve.
+Recipe 276,Dessert,"Rice, Chocolate, Garlic, Flour, Spinach, Butter",66,Step 1: Prepare Rice. Step 2: Add Chocolate. Step 3: Cook and serve.
+Recipe 277,Vegetarian,"Spinach, Eggs, Pasta, Tomato, Chocolate",59,Step 1: Prepare Spinach. Step 2: Add Eggs. Step 3: Cook and serve.
+Recipe 278,Dinner,"Chicken, Flour, Potato, Fish, Butter, Mushroom",46,Step 1: Prepare Chicken. Step 2: Add Flour. Step 3: Cook and serve.
+Recipe 279,Drinks,"Flour, Cheese, Butter",31,Step 1: Prepare Flour. Step 2: Add Cheese. Step 3: Cook and serve.
+Recipe 280,Gluten-Free,"Butter, Chicken, Cheese, Carrot, Garlic, Chocolate, Potato",29,Step 1: Prepare Butter. Step 2: Add Chicken. Step 3: Cook and serve.
+Recipe 281,Breakfast,"Carrot, Fish, Flour",13,Step 1: Prepare Carrot. Step 2: Add Fish. Step 3: Cook and serve.
+Recipe 282,Drinks,"Butter, Chocolate, Spinach, Onion, Rice, Flour",25,Step 1: Prepare Butter. Step 2: Add Chocolate. Step 3: Cook and serve.
+Recipe 283,Vegetarian,"Fish, Beef, Chicken",82,Step 1: Prepare Fish. Step 2: Add Beef. Step 3: Cook and serve.
+Recipe 284,Snacks,"Spinach, Pork, Fish, Eggs",42,Step 1: Prepare Spinach. Step 2: Add Pork. Step 3: Cook and serve.
+Recipe 285,Vegan,"Garlic, Potato, Pasta",82,Step 1: Prepare Garlic. Step 2: Add Potato. Step 3: Cook and serve.
+Recipe 286,Breakfast,"Mushroom, Chicken, Carrot, Fish, Spinach",21,Step 1: Prepare Mushroom. Step 2: Add Chicken. Step 3: Cook and serve.
+Recipe 287,Breakfast,"Butter, Mushroom, Cheese, Spinach, Chocolate, Garlic, Pasta",70,Step 1: Prepare Butter. Step 2: Add Mushroom. Step 3: Cook and serve.
+Recipe 288,Lunch,"Mushroom, Garlic, Cheese, Spinach, Pasta, Onion",74,Step 1: Prepare Mushroom. Step 2: Add Garlic. Step 3: Cook and serve.
+Recipe 289,Breakfast,"Onion, Fish, Eggs, Rice",48,Step 1: Prepare Onion. Step 2: Add Fish. Step 3: Cook and serve.
+Recipe 290,Vegan,"Chocolate, Beef, Fish",30,Step 1: Prepare Chocolate. Step 2: Add Beef. Step 3: Cook and serve.
+Recipe 291,Gluten-Free,"Cheese, Potato, Milk, Flour",42,Step 1: Prepare Cheese. Step 2: Add Potato. Step 3: Cook and serve.
+Recipe 292,Dessert,"Butter, Pasta, Fish",84,Step 1: Prepare Butter. Step 2: Add Pasta. Step 3: Cook and serve.
+Recipe 293,Breakfast,"Onion, Sugar, Tomato, Eggs, Milk, Spinach, Rice",55,Step 1: Prepare Onion. Step 2: Add Sugar. Step 3: Cook and serve.
+Recipe 294,Vegan,"Pasta, Onion, Chicken",27,Step 1: Prepare Pasta. Step 2: Add Onion. Step 3: Cook and serve.
+Recipe 295,Dinner,"Flour, Chocolate, Chicken, Eggs, Fish",41,Step 1: Prepare Flour. Step 2: Add Chocolate. Step 3: Cook and serve.
+Recipe 296,Breakfast,"Pork, Carrot, Butter, Rice, Pasta, Milk, Sugar",29,Step 1: Prepare Pork. Step 2: Add Carrot. Step 3: Cook and serve.
+Recipe 297,Breakfast,"Onion, Pork, Rice",31,Step 1: Prepare Onion. Step 2: Add Pork. Step 3: Cook and serve.
+Recipe 298,Dessert,"Pasta, Butter, Spinach",55,Step 1: Prepare Pasta. Step 2: Add Butter. Step 3: Cook and serve.
+Recipe 299,Lunch,"Spinach, Flour, Eggs",56,Step 1: Prepare Spinach. Step 2: Add Flour. Step 3: Cook and serve.
+Recipe 300,Gluten-Free,"Mushroom, Spinach, Beef, Eggs, Carrot",76,Step 1: Prepare Mushroom. Step 2: Add Spinach. Step 3: Cook and serve.
+Recipe 301,Vegan,"Onion, Flour, Chocolate, Butter, Tomato, Carrot",40,Step 1: Prepare Onion. Step 2: Add Flour. Step 3: Cook and serve.
+Recipe 302,Gluten-Free,"Mushroom, Pasta, Chicken, Pork, Carrot, Butter, Cheese",72,Step 1: Prepare Mushroom. Step 2: Add Pasta. Step 3: Cook and serve.
+Recipe 303,Breakfast,"Carrot, Spinach, Sugar, Chocolate",61,Step 1: Prepare Carrot. Step 2: Add Spinach. Step 3: Cook and serve.
+Recipe 304,Vegetarian,"Cheese, Carrot, Rice, Garlic, Chocolate",46,Step 1: Prepare Cheese. Step 2: Add Carrot. Step 3: Cook and serve.
+Recipe 305,Snacks,"Cheese, Milk, Fish",81,Step 1: Prepare Cheese. Step 2: Add Milk. Step 3: Cook and serve.
+Recipe 306,Dessert,"Carrot, Chocolate, Cheese, Spinach, Chicken, Potato",42,Step 1: Prepare Carrot. Step 2: Add Chocolate. Step 3: Cook and serve.
+Recipe 307,Lunch,"Butter, Mushroom, Fish, Pasta, Flour, Pork, Eggs",51,Step 1: Prepare Butter. Step 2: Add Mushroom. Step 3: Cook and serve.
+Recipe 308,Lunch,"Potato, Chicken, Carrot, Tomato, Pasta",71,Step 1: Prepare Potato. Step 2: Add Chicken. Step 3: Cook and serve.
+Recipe 309,Breakfast,"Pork, Eggs, Butter, Tomato, Chocolate, Chicken",73,Step 1: Prepare Pork. Step 2: Add Eggs. Step 3: Cook and serve.
+Recipe 310,Vegan,"Onion, Eggs, Sugar, Fish",15,Step 1: Prepare Onion. Step 2: Add Eggs. Step 3: Cook and serve.
+Recipe 311,Lunch,"Butter, Rice, Pork",55,Step 1: Prepare Butter. Step 2: Add Rice. Step 3: Cook and serve.
+Recipe 312,Drinks,"Spinach, Mushroom, Carrot, Chicken, Garlic, Pork, Flour",56,Step 1: Prepare Spinach. Step 2: Add Mushroom. Step 3: Cook and serve.
+Recipe 313,Dinner,"Fish, Pork, Butter",40,Step 1: Prepare Fish. Step 2: Add Pork. Step 3: Cook and serve.
+Recipe 314,Drinks,"Mushroom, Garlic, Chocolate, Fish, Eggs",56,Step 1: Prepare Mushroom. Step 2: Add Garlic. Step 3: Cook and serve.
+Recipe 315,Drinks,"Eggs, Onion, Fish, Flour, Garlic",46,Step 1: Prepare Eggs. Step 2: Add Onion. Step 3: Cook and serve.
+Recipe 316,Vegetarian,"Rice, Milk, Beef, Chocolate, Onion, Pork, Potato",78,Step 1: Prepare Rice. Step 2: Add Milk. Step 3: Cook and serve.
+Recipe 317,Dessert,"Garlic, Cheese, Beef, Carrot, Tomato",25,Step 1: Prepare Garlic. Step 2: Add Cheese. Step 3: Cook and serve.
+Recipe 318,Vegan,"Beef, Chocolate, Eggs, Pasta, Pork, Tomato, Cheese",41,Step 1: Prepare Beef. Step 2: Add Chocolate. Step 3: Cook and serve.
+Recipe 319,Vegan,"Potato, Pork, Garlic, Tomato",83,Step 1: Prepare Potato. Step 2: Add Pork. Step 3: Cook and serve.
+Recipe 320,Dessert,"Cheese, Sugar, Onion",70,Step 1: Prepare Cheese. Step 2: Add Sugar. Step 3: Cook and serve.
+Recipe 321,Gluten-Free,"Carrot, Beef, Spinach, Milk, Fish, Chicken, Mushroom",82,Step 1: Prepare Carrot. Step 2: Add Beef. Step 3: Cook and serve.
+Recipe 322,Vegan,"Cheese, Milk, Spinach, Eggs, Sugar",87,Step 1: Prepare Cheese. Step 2: Add Milk. Step 3: Cook and serve.
+Recipe 323,Snacks,"Cheese, Fish, Beef, Spinach, Flour, Pasta",44,Step 1: Prepare Cheese. Step 2: Add Fish. Step 3: Cook and serve.
+Recipe 324,Lunch,"Flour, Mushroom, Sugar, Butter, Garlic, Milk, Cheese",28,Step 1: Prepare Flour. Step 2: Add Mushroom. Step 3: Cook and serve.
+Recipe 325,Vegetarian,"Butter, Pasta, Chocolate, Flour, Spinach, Mushroom",70,Step 1: Prepare Butter. Step 2: Add Pasta. Step 3: Cook and serve.
+Recipe 326,Snacks,"Milk, Pasta, Garlic, Eggs, Cheese, Butter, Fish",30,Step 1: Prepare Milk. Step 2: Add Pasta. Step 3: Cook and serve.
+Recipe 327,Lunch,"Pasta, Sugar, Potato, Cheese, Eggs, Mushroom, Garlic",34,Step 1: Prepare Pasta. Step 2: Add Sugar. Step 3: Cook and serve.
+Recipe 328,Vegan,"Pork, Cheese, Fish, Chicken",58,Step 1: Prepare Pork. Step 2: Add Cheese. Step 3: Cook and serve.
+Recipe 329,Dessert,"Onion, Beef, Flour, Chocolate",83,Step 1: Prepare Onion. Step 2: Add Beef. Step 3: Cook and serve.
+Recipe 330,Dessert,"Onion, Rice, Chicken, Potato, Chocolate",72,Step 1: Prepare Onion. Step 2: Add Rice. Step 3: Cook and serve.
+Recipe 331,Lunch,"Butter, Beef, Pork, Mushroom, Tomato, Onion, Carrot",23,Step 1: Prepare Butter. Step 2: Add Beef. Step 3: Cook and serve.
+Recipe 332,Vegetarian,"Garlic, Onion, Mushroom, Tomato, Milk, Flour, Chocolate",24,Step 1: Prepare Garlic. Step 2: Add Onion. Step 3: Cook and serve.
+Recipe 333,Dessert,"Cheese, Tomato, Garlic, Fish, Rice, Spinach, Flour",52,Step 1: Prepare Cheese. Step 2: Add Tomato. Step 3: Cook and serve.
+Recipe 334,Dessert,"Onion, Pork, Beef, Milk, Sugar, Flour",20,Step 1: Prepare Onion. Step 2: Add Pork. Step 3: Cook and serve.
+Recipe 335,Gluten-Free,"Pork, Eggs, Onion, Mushroom",76,Step 1: Prepare Pork. Step 2: Add Eggs. Step 3: Cook and serve.
+Recipe 336,Breakfast,"Rice, Sugar, Tomato, Onion, Chocolate, Fish",73,Step 1: Prepare Rice. Step 2: Add Sugar. Step 3: Cook and serve.
+Recipe 337,Lunch,"Pork, Potato, Rice, Tomato, Fish",36,Step 1: Prepare Pork. Step 2: Add Potato. Step 3: Cook and serve.
+Recipe 338,Gluten-Free,"Milk, Rice, Butter, Pork, Potato, Eggs",75,Step 1: Prepare Milk. Step 2: Add Rice. Step 3: Cook and serve.
+Recipe 339,Drinks,"Chocolate, Onion, Carrot",33,Step 1: Prepare Chocolate. Step 2: Add Onion. Step 3: Cook and serve.
+Recipe 340,Vegetarian,"Flour, Sugar, Carrot, Pork, Pasta, Garlic, Butter",25,Step 1: Prepare Flour. Step 2: Add Sugar. Step 3: Cook and serve.
+Recipe 341,Breakfast,"Pasta, Garlic, Butter, Chocolate, Tomato, Fish, Spinach",54,Step 1: Prepare Pasta. Step 2: Add Garlic. Step 3: Cook and serve.
+Recipe 342,Breakfast,"Spinach, Cheese, Mushroom, Potato, Carrot",16,Step 1: Prepare Spinach. Step 2: Add Cheese. Step 3: Cook and serve.
+Recipe 343,Gluten-Free,"Fish, Chicken, Chocolate, Cheese, Garlic, Sugar, Flour",48,Step 1: Prepare Fish. Step 2: Add Chicken. Step 3: Cook and serve.
+Recipe 344,Drinks,"Beef, Milk, Flour, Potato",80,Step 1: Prepare Beef. Step 2: Add Milk. Step 3: Cook and serve.
+Recipe 345,Vegetarian,"Tomato, Spinach, Pork, Sugar, Fish, Milk",60,Step 1: Prepare Tomato. Step 2: Add Spinach. Step 3: Cook and serve.
+Recipe 346,Vegetarian,"Mushroom, Fish, Chicken",16,Step 1: Prepare Mushroom. Step 2: Add Fish. Step 3: Cook and serve.
+Recipe 347,Snacks,"Milk, Potato, Beef, Pasta, Garlic, Tomato",51,Step 1: Prepare Milk. Step 2: Add Potato. Step 3: Cook and serve.
+Recipe 348,Dinner,"Fish, Mushroom, Chicken, Carrot, Rice, Chocolate, Pasta",42,Step 1: Prepare Fish. Step 2: Add Mushroom. Step 3: Cook and serve.
+Recipe 349,Snacks,"Butter, Mushroom, Chocolate",56,Step 1: Prepare Butter. Step 2: Add Mushroom. Step 3: Cook and serve.
+Recipe 350,Lunch,"Butter, Garlic, Fish, Carrot",17,Step 1: Prepare Butter. Step 2: Add Garlic. Step 3: Cook and serve.
+Recipe 351,Gluten-Free,"Eggs, Garlic, Flour, Rice, Cheese, Spinach, Sugar",43,Step 1: Prepare Eggs. Step 2: Add Garlic. Step 3: Cook and serve.
+Recipe 352,Vegetarian,"Sugar, Chicken, Flour, Milk, Onion",25,Step 1: Prepare Sugar. Step 2: Add Chicken. Step 3: Cook and serve.
+Recipe 353,Breakfast,"Pasta, Tomato, Onion, Chicken, Fish, Sugar",30,Step 1: Prepare Pasta. Step 2: Add Tomato. Step 3: Cook and serve.
+Recipe 354,Dessert,"Garlic, Onion, Cheese, Milk, Butter, Pork",35,Step 1: Prepare Garlic. Step 2: Add Onion. Step 3: Cook and serve.
+Recipe 355,Breakfast,"Potato, Pork, Cheese, Chocolate, Fish, Chicken",82,Step 1: Prepare Potato. Step 2: Add Pork. Step 3: Cook and serve.
+Recipe 356,Vegan,"Carrot, Fish, Cheese, Chicken, Pasta",41,Step 1: Prepare Carrot. Step 2: Add Fish. Step 3: Cook and serve.
+Recipe 357,Vegetarian,"Carrot, Pork, Butter, Flour, Fish, Rice",55,Step 1: Prepare Carrot. Step 2: Add Pork. Step 3: Cook and serve.
+Recipe 358,Lunch,"Garlic, Milk, Potato, Chocolate, Butter",47,Step 1: Prepare Garlic. Step 2: Add Milk. Step 3: Cook and serve.
+Recipe 359,Dessert,"Milk, Onion, Spinach, Beef, Cheese",62,Step 1: Prepare Milk. Step 2: Add Onion. Step 3: Cook and serve.
+Recipe 360,Dessert,"Eggs, Beef, Garlic",50,Step 1: Prepare Eggs. Step 2: Add Beef. Step 3: Cook and serve.
+Recipe 361,Lunch,"Chicken, Garlic, Flour",69,Step 1: Prepare Chicken. Step 2: Add Garlic. Step 3: Cook and serve.
+Recipe 362,Vegan,"Sugar, Mushroom, Milk, Butter, Garlic, Beef, Cheese",74,Step 1: Prepare Sugar. Step 2: Add Mushroom. Step 3: Cook and serve.
+Recipe 363,Drinks,"Rice, Butter, Garlic, Flour, Carrot",88,Step 1: Prepare Rice. Step 2: Add Butter. Step 3: Cook and serve.
+Recipe 364,Dessert,"Spinach, Butter, Fish, Flour, Chocolate, Eggs",18,Step 1: Prepare Spinach. Step 2: Add Butter. Step 3: Cook and serve.
+Recipe 365,Gluten-Free,"Rice, Garlic, Chicken, Sugar, Pork, Cheese",25,Step 1: Prepare Rice. Step 2: Add Garlic. Step 3: Cook and serve.
+Recipe 366,Breakfast,"Potato, Pork, Cheese, Flour, Butter",51,Step 1: Prepare Potato. Step 2: Add Pork. Step 3: Cook and serve.
+Recipe 367,Snacks,"Chicken, Onion, Carrot, Flour, Milk",66,Step 1: Prepare Chicken. Step 2: Add Onion. Step 3: Cook and serve.
+Recipe 368,Gluten-Free,"Pasta, Chocolate, Flour, Garlic",49,Step 1: Prepare Pasta. Step 2: Add Chocolate. Step 3: Cook and serve.
+Recipe 369,Breakfast,"Mushroom, Chocolate, Spinach, Pork, Fish",27,Step 1: Prepare Mushroom. Step 2: Add Chocolate. Step 3: Cook and serve.
+Recipe 370,Dinner,"Carrot, Eggs, Potato",22,Step 1: Prepare Carrot. Step 2: Add Eggs. Step 3: Cook and serve.
+Recipe 371,Snacks,"Tomato, Flour, Onion, Chocolate, Rice, Fish, Butter",18,Step 1: Prepare Tomato. Step 2: Add Flour. Step 3: Cook and serve.
+Recipe 372,Drinks,"Carrot, Chicken, Butter, Chocolate, Beef, Garlic, Eggs",55,Step 1: Prepare Carrot. Step 2: Add Chicken. Step 3: Cook and serve.
+Recipe 373,Drinks,"Fish, Carrot, Chicken, Tomato",47,Step 1: Prepare Fish. Step 2: Add Carrot. Step 3: Cook and serve.
+Recipe 374,Snacks,"Spinach, Beef, Cheese, Chicken, Carrot",49,Step 1: Prepare Spinach. Step 2: Add Beef. Step 3: Cook and serve.
+Recipe 375,Vegan,"Onion, Cheese, Beef, Milk, Carrot, Tomato",58,Step 1: Prepare Onion. Step 2: Add Cheese. Step 3: Cook and serve.
+Recipe 376,Vegetarian,"Beef, Cheese, Milk, Garlic",68,Step 1: Prepare Beef. Step 2: Add Cheese. Step 3: Cook and serve.
+Recipe 377,Vegetarian,"Pasta, Pork, Mushroom, Beef, Fish",44,Step 1: Prepare Pasta. Step 2: Add Pork. Step 3: Cook and serve.
+Recipe 378,Gluten-Free,"Fish, Cheese, Rice, Spinach, Sugar, Pasta, Eggs",21,Step 1: Prepare Fish. Step 2: Add Cheese. Step 3: Cook and serve.
+Recipe 379,Vegetarian,"Milk, Mushroom, Potato, Fish, Garlic",44,Step 1: Prepare Milk. Step 2: Add Mushroom. Step 3: Cook and serve.
+Recipe 380,Gluten-Free,"Eggs, Chocolate, Cheese",28,Step 1: Prepare Eggs. Step 2: Add Chocolate. Step 3: Cook and serve.
+Recipe 381,Dessert,"Eggs, Sugar, Rice",49,Step 1: Prepare Eggs. Step 2: Add Sugar. Step 3: Cook and serve.
+Recipe 382,Dinner,"Eggs, Butter, Rice",33,Step 1: Prepare Eggs. Step 2: Add Butter. Step 3: Cook and serve.
+Recipe 383,Snacks,"Pasta, Chicken, Spinach, Butter, Flour, Sugar",41,Step 1: Prepare Pasta. Step 2: Add Chicken. Step 3: Cook and serve.
+Recipe 384,Snacks,"Butter, Carrot, Spinach",46,Step 1: Prepare Butter. Step 2: Add Carrot. Step 3: Cook and serve.
+Recipe 385,Lunch,"Flour, Chocolate, Beef, Milk",66,Step 1: Prepare Flour. Step 2: Add Chocolate. Step 3: Cook and serve.
+Recipe 386,Gluten-Free,"Sugar, Spinach, Beef, Butter",60,Step 1: Prepare Sugar. Step 2: Add Spinach. Step 3: Cook and serve.
+Recipe 387,Drinks,"Eggs, Chocolate, Pork, Carrot",81,Step 1: Prepare Eggs. Step 2: Add Chocolate. Step 3: Cook and serve.
+Recipe 388,Lunch,"Pasta, Onion, Tomato, Cheese, Potato, Eggs, Butter",61,Step 1: Prepare Pasta. Step 2: Add Onion. Step 3: Cook and serve.
+Recipe 389,Vegetarian,"Sugar, Cheese, Butter, Flour, Garlic, Chocolate",64,Step 1: Prepare Sugar. Step 2: Add Cheese. Step 3: Cook and serve.
+Recipe 390,Breakfast,"Beef, Spinach, Butter, Flour, Milk, Fish, Sugar",44,Step 1: Prepare Beef. Step 2: Add Spinach. Step 3: Cook and serve.
+Recipe 391,Drinks,"Flour, Tomato, Carrot, Spinach, Chicken",24,Step 1: Prepare Flour. Step 2: Add Tomato. Step 3: Cook and serve.
+Recipe 392,Gluten-Free,"Carrot, Milk, Fish, Tomato, Butter, Beef",14,Step 1: Prepare Carrot. Step 2: Add Milk. Step 3: Cook and serve.
+Recipe 393,Snacks,"Flour, Eggs, Chicken, Beef, Cheese",77,Step 1: Prepare Flour. Step 2: Add Eggs. Step 3: Cook and serve.
+Recipe 394,Breakfast,"Pork, Milk, Rice, Carrot",79,Step 1: Prepare Pork. Step 2: Add Milk. Step 3: Cook and serve.
+Recipe 395,Drinks,"Milk, Pork, Garlic, Cheese, Chocolate",18,Step 1: Prepare Milk. Step 2: Add Pork. Step 3: Cook and serve.
+Recipe 396,Dinner,"Tomato, Chicken, Chocolate, Rice, Flour, Carrot, Pork",84,Step 1: Prepare Tomato. Step 2: Add Chicken. Step 3: Cook and serve.
+Recipe 397,Vegan,"Sugar, Milk, Beef",82,Step 1: Prepare Sugar. Step 2: Add Milk. Step 3: Cook and serve.
+Recipe 398,Drinks,"Butter, Potato, Cheese, Rice, Tomato, Garlic, Sugar",47,Step 1: Prepare Butter. Step 2: Add Potato. Step 3: Cook and serve.
+Recipe 399,Vegetarian,"Garlic, Tomato, Fish, Chicken, Rice, Mushroom, Pasta",64,Step 1: Prepare Garlic. Step 2: Add Tomato. Step 3: Cook and serve.
+Recipe 400,Vegan,"Sugar, Pasta, Carrot, Fish, Flour, Chocolate",76,Step 1: Prepare Sugar. Step 2: Add Pasta. Step 3: Cook and serve.
+Recipe 401,Lunch,"Cheese, Rice, Potato, Chocolate",76,Step 1: Prepare Cheese. Step 2: Add Rice. Step 3: Cook and serve.
+Recipe 402,Snacks,"Potato, Onion, Fish, Rice, Butter, Pasta, Flour",56,Step 1: Prepare Potato. Step 2: Add Onion. Step 3: Cook and serve.
+Recipe 403,Vegan,"Fish, Mushroom, Pasta, Tomato, Chicken, Butter",62,Step 1: Prepare Fish. Step 2: Add Mushroom. Step 3: Cook and serve.
+Recipe 404,Dessert,"Cheese, Eggs, Fish, Onion, Pork",80,Step 1: Prepare Cheese. Step 2: Add Eggs. Step 3: Cook and serve.
+Recipe 405,Dessert,"Beef, Flour, Chocolate, Mushroom",38,Step 1: Prepare Beef. Step 2: Add Flour. Step 3: Cook and serve.
+Recipe 406,Lunch,"Cheese, Onion, Tomato, Milk",56,Step 1: Prepare Cheese. Step 2: Add Onion. Step 3: Cook and serve.
+Recipe 407,Gluten-Free,"Rice, Fish, Tomato",84,Step 1: Prepare Rice. Step 2: Add Fish. Step 3: Cook and serve.
+Recipe 408,Vegan,"Milk, Flour, Tomato, Chocolate, Pasta, Onion",31,Step 1: Prepare Milk. Step 2: Add Flour. Step 3: Cook and serve.
+Recipe 409,Gluten-Free,"Tomato, Carrot, Chocolate, Mushroom, Potato",61,Step 1: Prepare Tomato. Step 2: Add Carrot. Step 3: Cook and serve.
+Recipe 410,Vegan,"Pork, Chicken, Beef, Mushroom, Fish, Pasta",83,Step 1: Prepare Pork. Step 2: Add Chicken. Step 3: Cook and serve.
+Recipe 411,Snacks,"Flour, Eggs, Sugar",55,Step 1: Prepare Flour. Step 2: Add Eggs. Step 3: Cook and serve.
+Recipe 412,Dessert,"Chicken, Milk, Chocolate",34,Step 1: Prepare Chicken. Step 2: Add Milk. Step 3: Cook and serve.
+Recipe 413,Snacks,"Carrot, Tomato, Milk, Potato, Mushroom",17,Step 1: Prepare Carrot. Step 2: Add Tomato. Step 3: Cook and serve.
+Recipe 414,Vegetarian,"Carrot, Onion, Beef, Pork, Rice",48,Step 1: Prepare Carrot. Step 2: Add Onion. Step 3: Cook and serve.
+Recipe 415,Dinner,"Cheese, Chicken, Potato, Butter, Fish, Flour",30,Step 1: Prepare Cheese. Step 2: Add Chicken. Step 3: Cook and serve.
+Recipe 416,Breakfast,"Pork, Eggs, Mushroom, Garlic, Onion, Butter",66,Step 1: Prepare Pork. Step 2: Add Eggs. Step 3: Cook and serve.
+Recipe 417,Drinks,"Pasta, Spinach, Fish, Cheese, Chocolate, Beef",74,Step 1: Prepare Pasta. Step 2: Add Spinach. Step 3: Cook and serve.
+Recipe 418,Snacks,"Sugar, Chocolate, Fish, Carrot",79,Step 1: Prepare Sugar. Step 2: Add Chocolate. Step 3: Cook and serve.
+Recipe 419,Dessert,"Garlic, Fish, Pasta, Spinach, Beef",16,Step 1: Prepare Garlic. Step 2: Add Fish. Step 3: Cook and serve.
+Recipe 420,Lunch,"Mushroom, Sugar, Carrot, Potato, Garlic",46,Step 1: Prepare Mushroom. Step 2: Add Sugar. Step 3: Cook and serve.
+Recipe 421,Vegetarian,"Sugar, Mushroom, Chocolate, Pasta, Onion, Carrot, Pork",78,Step 1: Prepare Sugar. Step 2: Add Mushroom. Step 3: Cook and serve.
+Recipe 422,Gluten-Free,"Potato, Butter, Onion, Chicken",71,Step 1: Prepare Potato. Step 2: Add Butter. Step 3: Cook and serve.
+Recipe 423,Drinks,"Potato, Cheese, Pasta, Garlic, Rice, Spinach, Eggs",87,Step 1: Prepare Potato. Step 2: Add Cheese. Step 3: Cook and serve.
+Recipe 424,Vegan,"Onion, Butter, Sugar, Mushroom, Garlic, Potato, Pork",26,Step 1: Prepare Onion. Step 2: Add Butter. Step 3: Cook and serve.
+Recipe 425,Snacks,"Onion, Pasta, Mushroom, Tomato, Potato",75,Step 1: Prepare Onion. Step 2: Add Pasta. Step 3: Cook and serve.
+Recipe 426,Lunch,"Fish, Pasta, Rice, Cheese, Eggs, Onion, Beef",11,Step 1: Prepare Fish. Step 2: Add Pasta. Step 3: Cook and serve.
+Recipe 427,Vegan,"Garlic, Chocolate, Butter, Tomato",50,Step 1: Prepare Garlic. Step 2: Add Chocolate. Step 3: Cook and serve.
+Recipe 428,Gluten-Free,"Carrot, Pasta, Garlic",40,Step 1: Prepare Carrot. Step 2: Add Pasta. Step 3: Cook and serve.
+Recipe 429,Drinks,"Milk, Fish, Cheese",60,Step 1: Prepare Milk. Step 2: Add Fish. Step 3: Cook and serve.
+Recipe 430,Vegan,"Garlic, Eggs, Spinach, Butter, Onion",82,Step 1: Prepare Garlic. Step 2: Add Eggs. Step 3: Cook and serve.
+Recipe 431,Vegan,"Sugar, Onion, Chicken, Butter, Pasta, Eggs",51,Step 1: Prepare Sugar. Step 2: Add Onion. Step 3: Cook and serve.
+Recipe 432,Vegetarian,"Cheese, Beef, Chicken, Milk, Sugar, Onion",89,Step 1: Prepare Cheese. Step 2: Add Beef. Step 3: Cook and serve.
+Recipe 433,Vegan,"Chocolate, Mushroom, Cheese, Beef, Milk",27,Step 1: Prepare Chocolate. Step 2: Add Mushroom. Step 3: Cook and serve.
+Recipe 434,Breakfast,"Mushroom, Pork, Tomato, Chocolate, Chicken",30,Step 1: Prepare Mushroom. Step 2: Add Pork. Step 3: Cook and serve.
+Recipe 435,Vegan,"Sugar, Tomato, Fish, Beef, Butter",33,Step 1: Prepare Sugar. Step 2: Add Tomato. Step 3: Cook and serve.
+Recipe 436,Breakfast,"Fish, Beef, Pasta, Carrot, Potato, Chicken",45,Step 1: Prepare Fish. Step 2: Add Beef. Step 3: Cook and serve.
+Recipe 437,Snacks,"Tomato, Chicken, Chocolate, Cheese, Butter",11,Step 1: Prepare Tomato. Step 2: Add Chicken. Step 3: Cook and serve.
+Recipe 438,Dinner,"Beef, Rice, Tomato, Butter, Chicken, Cheese, Mushroom",52,Step 1: Prepare Beef. Step 2: Add Rice. Step 3: Cook and serve.
+Recipe 439,Breakfast,"Carrot, Fish, Beef",31,Step 1: Prepare Carrot. Step 2: Add Fish. Step 3: Cook and serve.
+Recipe 440,Dinner,"Spinach, Rice, Fish",69,Step 1: Prepare Spinach. Step 2: Add Rice. Step 3: Cook and serve.
+Recipe 441,Vegetarian,"Cheese, Butter, Milk",89,Step 1: Prepare Cheese. Step 2: Add Butter. Step 3: Cook and serve.
+Recipe 442,Breakfast,"Spinach, Sugar, Potato, Fish, Beef, Mushroom",46,Step 1: Prepare Spinach. Step 2: Add Sugar. Step 3: Cook and serve.
+Recipe 443,Lunch,"Pasta, Onion, Milk, Butter",24,Step 1: Prepare Pasta. Step 2: Add Onion. Step 3: Cook and serve.
+Recipe 444,Drinks,"Pasta, Butter, Rice, Spinach, Cheese",34,Step 1: Prepare Pasta. Step 2: Add Butter. Step 3: Cook and serve.
+Recipe 445,Breakfast,"Milk, Sugar, Chicken",58,Step 1: Prepare Milk. Step 2: Add Sugar. Step 3: Cook and serve.
+Recipe 446,Dinner,"Butter, Potato, Milk, Garlic, Mushroom, Fish",12,Step 1: Prepare Butter. Step 2: Add Potato. Step 3: Cook and serve.
+Recipe 447,Snacks,"Garlic, Sugar, Butter",72,Step 1: Prepare Garlic. Step 2: Add Sugar. Step 3: Cook and serve.
+Recipe 448,Dinner,"Chocolate, Milk, Beef, Garlic, Potato, Cheese, Butter",34,Step 1: Prepare Chocolate. Step 2: Add Milk. Step 3: Cook and serve.
+Recipe 449,Gluten-Free,"Rice, Beef, Flour, Potato, Cheese, Garlic",12,Step 1: Prepare Rice. Step 2: Add Beef. Step 3: Cook and serve.
+Recipe 450,Snacks,"Eggs, Onion, Rice, Flour, Carrot, Butter",86,Step 1: Prepare Eggs. Step 2: Add Onion. Step 3: Cook and serve.
+Recipe 451,Vegan,"Sugar, Tomato, Flour, Pasta, Rice, Chicken",53,Step 1: Prepare Sugar. Step 2: Add Tomato. Step 3: Cook and serve.
+Recipe 452,Gluten-Free,"Pork, Butter, Sugar, Mushroom",21,Step 1: Prepare Pork. Step 2: Add Butter. Step 3: Cook and serve.
+Recipe 453,Drinks,"Chocolate, Pasta, Garlic, Onion, Beef, Fish",75,Step 1: Prepare Chocolate. Step 2: Add Pasta. Step 3: Cook and serve.
+Recipe 454,Gluten-Free,"Pasta, Butter, Chocolate, Onion",87,Step 1: Prepare Pasta. Step 2: Add Butter. Step 3: Cook and serve.
+Recipe 455,Drinks,"Pasta, Milk, Sugar, Beef, Mushroom",36,Step 1: Prepare Pasta. Step 2: Add Milk. Step 3: Cook and serve.
+Recipe 456,Lunch,"Onion, Carrot, Mushroom, Potato, Pasta",82,Step 1: Prepare Onion. Step 2: Add Carrot. Step 3: Cook and serve.
+Recipe 457,Gluten-Free,"Cheese, Eggs, Potato, Pasta",28,Step 1: Prepare Cheese. Step 2: Add Eggs. Step 3: Cook and serve.
+Recipe 458,Drinks,"Chocolate, Milk, Sugar",61,Step 1: Prepare Chocolate. Step 2: Add Milk. Step 3: Cook and serve.
+Recipe 459,Drinks,"Pasta, Tomato, Flour, Chocolate",82,Step 1: Prepare Pasta. Step 2: Add Tomato. Step 3: Cook and serve.
+Recipe 460,Lunch,"Eggs, Cheese, Chocolate, Chicken, Beef, Fish",38,Step 1: Prepare Eggs. Step 2: Add Cheese. Step 3: Cook and serve.
+Recipe 461,Dessert,"Pasta, Chocolate, Mushroom, Eggs, Flour, Fish, Chicken",62,Step 1: Prepare Pasta. Step 2: Add Chocolate. Step 3: Cook and serve.
+Recipe 462,Breakfast,"Fish, Milk, Onion, Eggs, Sugar, Mushroom, Pork",41,Step 1: Prepare Fish. Step 2: Add Milk. Step 3: Cook and serve.
+Recipe 463,Vegan,"Beef, Flour, Carrot, Milk, Butter, Potato",56,Step 1: Prepare Beef. Step 2: Add Flour. Step 3: Cook and serve.
+Recipe 464,Snacks,"Tomato, Flour, Chocolate, Rice",11,Step 1: Prepare Tomato. Step 2: Add Flour. Step 3: Cook and serve.
+Recipe 465,Vegetarian,"Beef, Potato, Chicken",43,Step 1: Prepare Beef. Step 2: Add Potato. Step 3: Cook and serve.
+Recipe 466,Dinner,"Potato, Sugar, Chicken, Spinach, Cheese, Rice, Chocolate",40,Step 1: Prepare Potato. Step 2: Add Sugar. Step 3: Cook and serve.
+Recipe 467,Vegetarian,"Eggs, Milk, Chicken",55,Step 1: Prepare Eggs. Step 2: Add Milk. Step 3: Cook and serve.
+Recipe 468,Vegan,"Fish, Milk, Spinach, Tomato, Beef, Pork, Mushroom",52,Step 1: Prepare Fish. Step 2: Add Milk. Step 3: Cook and serve.
+Recipe 469,Vegetarian,"Cheese, Pork, Chicken, Carrot, Rice, Garlic",20,Step 1: Prepare Cheese. Step 2: Add Pork. Step 3: Cook and serve.
+Recipe 470,Snacks,"Milk, Onion, Spinach, Pork, Chicken, Sugar, Flour",69,Step 1: Prepare Milk. Step 2: Add Onion. Step 3: Cook and serve.
+Recipe 471,Dinner,"Tomato, Mushroom, Flour, Chicken",52,Step 1: Prepare Tomato. Step 2: Add Mushroom. Step 3: Cook and serve.
+Recipe 472,Breakfast,"Fish, Eggs, Pork, Garlic, Chicken, Pasta, Potato",39,Step 1: Prepare Fish. Step 2: Add Eggs. Step 3: Cook and serve.
+Recipe 473,Dinner,"Pasta, Spinach, Eggs",40,Step 1: Prepare Pasta. Step 2: Add Spinach. Step 3: Cook and serve.
+Recipe 474,Dinner,"Chicken, Milk, Pork, Onion",51,Step 1: Prepare Chicken. Step 2: Add Milk. Step 3: Cook and serve.
+Recipe 475,Dessert,"Pork, Milk, Mushroom, Potato, Carrot, Chocolate, Flour",27,Step 1: Prepare Pork. Step 2: Add Milk. Step 3: Cook and serve.
+Recipe 476,Gluten-Free,"Cheese, Sugar, Pasta",79,Step 1: Prepare Cheese. Step 2: Add Sugar. Step 3: Cook and serve.
+Recipe 477,Snacks,"Milk, Butter, Pasta, Chocolate",32,Step 1: Prepare Milk. Step 2: Add Butter. Step 3: Cook and serve.
+Recipe 478,Dessert,"Potato, Spinach, Cheese",37,Step 1: Prepare Potato. Step 2: Add Spinach. Step 3: Cook and serve.
+Recipe 479,Gluten-Free,"Eggs, Cheese, Pasta, Rice, Fish, Flour",39,Step 1: Prepare Eggs. Step 2: Add Cheese. Step 3: Cook and serve.
+Recipe 480,Dessert,"Tomato, Cheese, Beef, Flour",86,Step 1: Prepare Tomato. Step 2: Add Cheese. Step 3: Cook and serve.
+Recipe 481,Gluten-Free,"Beef, Spinach, Pork, Milk, Cheese, Fish, Garlic",72,Step 1: Prepare Beef. Step 2: Add Spinach. Step 3: Cook and serve.
+Recipe 482,Vegan,"Beef, Carrot, Rice, Spinach, Flour, Tomato, Potato",42,Step 1: Prepare Beef. Step 2: Add Carrot. Step 3: Cook and serve.
+Recipe 483,Dinner,"Chicken, Carrot, Tomato, Onion",89,Step 1: Prepare Chicken. Step 2: Add Carrot. Step 3: Cook and serve.
+Recipe 484,Snacks,"Carrot, Flour, Milk, Tomato",85,Step 1: Prepare Carrot. Step 2: Add Flour. Step 3: Cook and serve.
+Recipe 485,Breakfast,"Pasta, Chicken, Tomato, Cheese, Pork, Flour, Fish",22,Step 1: Prepare Pasta. Step 2: Add Chicken. Step 3: Cook and serve.
+Recipe 486,Lunch,"Eggs, Sugar, Rice, Flour, Chicken, Milk, Carrot",81,Step 1: Prepare Eggs. Step 2: Add Sugar. Step 3: Cook and serve.
+Recipe 487,Vegan,"Flour, Garlic, Onion, Sugar",40,Step 1: Prepare Flour. Step 2: Add Garlic. Step 3: Cook and serve.
+Recipe 488,Vegetarian,"Pork, Garlic, Fish, Rice, Eggs, Spinach",54,Step 1: Prepare Pork. Step 2: Add Garlic. Step 3: Cook and serve.
+Recipe 489,Breakfast,"Milk, Fish, Rice, Pasta, Butter, Potato",71,Step 1: Prepare Milk. Step 2: Add Fish. Step 3: Cook and serve.
+Recipe 490,Lunch,"Onion, Eggs, Chicken, Fish, Mushroom, Garlic, Tomato",47,Step 1: Prepare Onion. Step 2: Add Eggs. Step 3: Cook and serve.
+Recipe 491,Dinner,"Beef, Cheese, Chocolate, Onion, Potato, Flour",49,Step 1: Prepare Beef. Step 2: Add Cheese. Step 3: Cook and serve.
+Recipe 492,Dessert,"Carrot, Chicken, Butter, Onion, Chocolate, Flour, Mushroom",22,Step 1: Prepare Carrot. Step 2: Add Chicken. Step 3: Cook and serve.
+Recipe 493,Gluten-Free,"Tomato, Cheese, Garlic, Carrot",41,Step 1: Prepare Tomato. Step 2: Add Cheese. Step 3: Cook and serve.
+Recipe 494,Vegan,"Garlic, Milk, Chicken, Onion",77,Step 1: Prepare Garlic. Step 2: Add Milk. Step 3: Cook and serve.
+Recipe 495,Dessert,"Chicken, Mushroom, Carrot, Eggs, Sugar",70,Step 1: Prepare Chicken. Step 2: Add Mushroom. Step 3: Cook and serve.
+Recipe 496,Breakfast,"Potato, Milk, Garlic, Cheese, Pork, Tomato, Flour",47,Step 1: Prepare Potato. Step 2: Add Milk. Step 3: Cook and serve.
+Recipe 497,Vegetarian,"Pork, Potato, Milk",22,Step 1: Prepare Pork. Step 2: Add Potato. Step 3: Cook and serve.
+Recipe 498,Vegan,"Potato, Chicken, Milk, Pasta, Onion",28,Step 1: Prepare Potato. Step 2: Add Chicken. Step 3: Cook and serve.
+Recipe 499,Vegetarian,"Butter, Onion, Rice, Beef, Spinach, Chicken",24,Step 1: Prepare Butter. Step 2: Add Onion. Step 3: Cook and serve.
+Recipe 500,Gluten-Free,"Eggs, Fish, Spinach, Onion, Chocolate",68,Step 1: Prepare Eggs. Step 2: Add Fish. Step 3: Cook and serve.
+Recipe 501,Snacks,"Garlic, Chicken, Butter, Eggs",86,Step 1: Prepare Garlic. Step 2: Add Chicken. Step 3: Cook and serve.
+Recipe 502,Gluten-Free,"Milk, Butter, Flour, Cheese, Potato",23,Step 1: Prepare Milk. Step 2: Add Butter. Step 3: Cook and serve.
+Recipe 503,Gluten-Free,"Chicken, Tomato, Pasta, Pork, Spinach, Rice, Butter",49,Step 1: Prepare Chicken. Step 2: Add Tomato. Step 3: Cook and serve.
+Recipe 504,Dinner,"Milk, Sugar, Fish, Chicken, Carrot, Butter",70,Step 1: Prepare Milk. Step 2: Add Sugar. Step 3: Cook and serve.
+Recipe 505,Lunch,"Carrot, Pork, Beef, Butter, Rice, Potato, Pasta",49,Step 1: Prepare Carrot. Step 2: Add Pork. Step 3: Cook and serve.
+Recipe 506,Dinner,"Pork, Carrot, Chicken, Garlic, Pasta",27,Step 1: Prepare Pork. Step 2: Add Carrot. Step 3: Cook and serve.
+Recipe 507,Snacks,"Onion, Carrot, Cheese",86,Step 1: Prepare Onion. Step 2: Add Carrot. Step 3: Cook and serve.
+Recipe 508,Dessert,"Potato, Chicken, Rice",85,Step 1: Prepare Potato. Step 2: Add Chicken. Step 3: Cook and serve.
+Recipe 509,Gluten-Free,"Spinach, Mushroom, Rice, Chicken, Onion, Chocolate, Potato",56,Step 1: Prepare Spinach. Step 2: Add Mushroom. Step 3: Cook and serve.
+Recipe 510,Vegan,"Fish, Flour, Butter",30,Step 1: Prepare Fish. Step 2: Add Flour. Step 3: Cook and serve.
+Recipe 511,Gluten-Free,"Flour, Spinach, Butter, Onion, Eggs, Mushroom",12,Step 1: Prepare Flour. Step 2: Add Spinach. Step 3: Cook and serve.
+Recipe 512,Drinks,"Tomato, Rice, Garlic",56,Step 1: Prepare Tomato. Step 2: Add Rice. Step 3: Cook and serve.
+Recipe 513,Snacks,"Flour, Spinach, Milk",56,Step 1: Prepare Flour. Step 2: Add Spinach. Step 3: Cook and serve.
+Recipe 514,Vegetarian,"Flour, Mushroom, Cheese, Eggs, Onion, Sugar, Potato",55,Step 1: Prepare Flour. Step 2: Add Mushroom. Step 3: Cook and serve.
+Recipe 515,Snacks,"Cheese, Pasta, Onion",38,Step 1: Prepare Cheese. Step 2: Add Pasta. Step 3: Cook and serve.
+Recipe 516,Snacks,"Garlic, Milk, Onion, Mushroom, Carrot",78,Step 1: Prepare Garlic. Step 2: Add Milk. Step 3: Cook and serve.
+Recipe 517,Drinks,"Beef, Carrot, Fish, Tomato, Butter, Garlic, Chocolate",60,Step 1: Prepare Beef. Step 2: Add Carrot. Step 3: Cook and serve.
+Recipe 518,Dinner,"Flour, Chocolate, Rice, Butter, Pasta, Garlic",59,Step 1: Prepare Flour. Step 2: Add Chocolate. Step 3: Cook and serve.
+Recipe 519,Drinks,"Onion, Butter, Spinach, Beef",11,Step 1: Prepare Onion. Step 2: Add Butter. Step 3: Cook and serve.
+Recipe 520,Vegetarian,"Beef, Garlic, Rice, Onion, Tomato",44,Step 1: Prepare Beef. Step 2: Add Garlic. Step 3: Cook and serve.
+Recipe 521,Gluten-Free,"Garlic, Fish, Pork, Butter",38,Step 1: Prepare Garlic. Step 2: Add Fish. Step 3: Cook and serve.
+Recipe 522,Vegetarian,"Pasta, Butter, Beef, Rice",65,Step 1: Prepare Pasta. Step 2: Add Butter. Step 3: Cook and serve.
+Recipe 523,Snacks,"Cheese, Flour, Spinach, Pasta",75,Step 1: Prepare Cheese. Step 2: Add Flour. Step 3: Cook and serve.
+Recipe 524,Drinks,"Chicken, Garlic, Onion, Chocolate, Butter, Tomato, Pasta",58,Step 1: Prepare Chicken. Step 2: Add Garlic. Step 3: Cook and serve.
+Recipe 525,Drinks,"Cheese, Chicken, Milk, Flour, Garlic",75,Step 1: Prepare Cheese. Step 2: Add Chicken. Step 3: Cook and serve.
+Recipe 526,Vegan,"Spinach, Onion, Flour, Rice, Fish",66,Step 1: Prepare Spinach. Step 2: Add Onion. Step 3: Cook and serve.
+Recipe 527,Vegetarian,"Eggs, Butter, Chocolate, Spinach",39,Step 1: Prepare Eggs. Step 2: Add Butter. Step 3: Cook and serve.
+Recipe 528,Vegetarian,"Pasta, Spinach, Potato",21,Step 1: Prepare Pasta. Step 2: Add Spinach. Step 3: Cook and serve.
+Recipe 529,Dessert,"Spinach, Tomato, Carrot, Onion",68,Step 1: Prepare Spinach. Step 2: Add Tomato. Step 3: Cook and serve.
+Recipe 530,Drinks,"Fish, Cheese, Milk, Potato, Sugar, Spinach, Butter",43,Step 1: Prepare Fish. Step 2: Add Cheese. Step 3: Cook and serve.
+Recipe 531,Snacks,"Potato, Mushroom, Eggs, Pork, Flour, Fish",52,Step 1: Prepare Potato. Step 2: Add Mushroom. Step 3: Cook and serve.
+Recipe 532,Snacks,"Pork, Mushroom, Chocolate, Rice, Flour",68,Step 1: Prepare Pork. Step 2: Add Mushroom. Step 3: Cook and serve.
+Recipe 533,Dessert,"Chicken, Sugar, Carrot, Tomato",83,Step 1: Prepare Chicken. Step 2: Add Sugar. Step 3: Cook and serve.
+Recipe 534,Vegan,"Chocolate, Fish, Chicken, Pork, Onion, Milk",62,Step 1: Prepare Chocolate. Step 2: Add Fish. Step 3: Cook and serve.
+Recipe 535,Dinner,"Cheese, Potato, Carrot",18,Step 1: Prepare Cheese. Step 2: Add Potato. Step 3: Cook and serve.
+Recipe 536,Snacks,"Pasta, Mushroom, Chocolate, Garlic, Butter",80,Step 1: Prepare Pasta. Step 2: Add Mushroom. Step 3: Cook and serve.
+Recipe 537,Gluten-Free,"Butter, Potato, Spinach, Flour",75,Step 1: Prepare Butter. Step 2: Add Potato. Step 3: Cook and serve.
+Recipe 538,Dinner,"Beef, Rice, Sugar, Chocolate, Garlic",70,Step 1: Prepare Beef. Step 2: Add Rice. Step 3: Cook and serve.
+Recipe 539,Dessert,"Garlic, Chicken, Sugar, Carrot, Butter, Fish, Eggs",56,Step 1: Prepare Garlic. Step 2: Add Chicken. Step 3: Cook and serve.
+Recipe 540,Gluten-Free,"Carrot, Spinach, Garlic, Eggs, Mushroom, Fish",69,Step 1: Prepare Carrot. Step 2: Add Spinach. Step 3: Cook and serve.
+Recipe 541,Snacks,"Rice, Sugar, Mushroom, Pasta",15,Step 1: Prepare Rice. Step 2: Add Sugar. Step 3: Cook and serve.
+Recipe 542,Dessert,"Pork, Beef, Tomato, Cheese, Fish",33,Step 1: Prepare Pork. Step 2: Add Beef. Step 3: Cook and serve.
+Recipe 543,Vegetarian,"Potato, Carrot, Rice, Pasta, Cheese",83,Step 1: Prepare Potato. Step 2: Add Carrot. Step 3: Cook and serve.
+Recipe 544,Drinks,"Garlic, Spinach, Beef",51,Step 1: Prepare Garlic. Step 2: Add Spinach. Step 3: Cook and serve.
+Recipe 545,Vegetarian,"Potato, Onion, Garlic",76,Step 1: Prepare Potato. Step 2: Add Onion. Step 3: Cook and serve.
+Recipe 546,Vegan,"Pork, Eggs, Cheese, Potato, Chicken",34,Step 1: Prepare Pork. Step 2: Add Eggs. Step 3: Cook and serve.
+Recipe 547,Dessert,"Potato, Cheese, Onion, Carrot, Eggs",21,Step 1: Prepare Potato. Step 2: Add Cheese. Step 3: Cook and serve.
+Recipe 548,Vegan,"Pork, Cheese, Chicken, Milk",60,Step 1: Prepare Pork. Step 2: Add Cheese. Step 3: Cook and serve.
+Recipe 549,Lunch,"Pork, Spinach, Rice, Chicken",36,Step 1: Prepare Pork. Step 2: Add Spinach. Step 3: Cook and serve.
+Recipe 550,Drinks,"Fish, Eggs, Butter, Tomato, Spinach",66,Step 1: Prepare Fish. Step 2: Add Eggs. Step 3: Cook and serve.
+Recipe 551,Lunch,"Fish, Flour, Milk",21,Step 1: Prepare Fish. Step 2: Add Flour. Step 3: Cook and serve.
+Recipe 552,Lunch,"Onion, Flour, Chicken",70,Step 1: Prepare Onion. Step 2: Add Flour. Step 3: Cook and serve.
+Recipe 553,Vegetarian,"Mushroom, Butter, Flour, Tomato, Pasta, Beef",43,Step 1: Prepare Mushroom. Step 2: Add Butter. Step 3: Cook and serve.
+Recipe 554,Dessert,"Rice, Beef, Cheese, Chocolate, Sugar",85,Step 1: Prepare Rice. Step 2: Add Beef. Step 3: Cook and serve.
+Recipe 555,Dessert,"Chocolate, Cheese, Rice",72,Step 1: Prepare Chocolate. Step 2: Add Cheese. Step 3: Cook and serve.
+Recipe 556,Snacks,"Flour, Sugar, Spinach",59,Step 1: Prepare Flour. Step 2: Add Sugar. Step 3: Cook and serve.
+Recipe 557,Vegan,"Tomato, Carrot, Cheese, Pork, Milk, Chicken, Chocolate",12,Step 1: Prepare Tomato. Step 2: Add Carrot. Step 3: Cook and serve.
+Recipe 558,Breakfast,"Beef, Onion, Tomato, Chicken, Spinach, Pasta, Pork",10,Step 1: Prepare Beef. Step 2: Add Onion. Step 3: Cook and serve.
+Recipe 559,Vegetarian,"Potato, Butter, Garlic, Tomato",52,Step 1: Prepare Potato. Step 2: Add Butter. Step 3: Cook and serve.
+Recipe 560,Dessert,"Flour, Onion, Beef, Fish, Tomato",69,Step 1: Prepare Flour. Step 2: Add Onion. Step 3: Cook and serve.
+Recipe 561,Gluten-Free,"Tomato, Pasta, Potato, Chocolate, Flour",64,Step 1: Prepare Tomato. Step 2: Add Pasta. Step 3: Cook and serve.
+Recipe 562,Vegan,"Sugar, Pasta, Cheese, Pork, Butter",48,Step 1: Prepare Sugar. Step 2: Add Pasta. Step 3: Cook and serve.
+Recipe 563,Vegan,"Spinach, Pork, Eggs, Flour, Onion, Mushroom, Milk",62,Step 1: Prepare Spinach. Step 2: Add Pork. Step 3: Cook and serve.
+Recipe 564,Snacks,"Potato, Garlic, Sugar, Eggs",62,Step 1: Prepare Potato. Step 2: Add Garlic. Step 3: Cook and serve.
+Recipe 565,Vegan,"Spinach, Sugar, Chocolate, Flour",35,Step 1: Prepare Spinach. Step 2: Add Sugar. Step 3: Cook and serve.
+Recipe 566,Dessert,"Fish, Garlic, Tomato, Pasta, Mushroom, Pork, Rice",46,Step 1: Prepare Fish. Step 2: Add Garlic. Step 3: Cook and serve.
+Recipe 567,Gluten-Free,"Sugar, Carrot, Milk, Pork, Tomato",46,Step 1: Prepare Sugar. Step 2: Add Carrot. Step 3: Cook and serve.
+Recipe 568,Gluten-Free,"Mushroom, Pasta, Carrot",49,Step 1: Prepare Mushroom. Step 2: Add Pasta. Step 3: Cook and serve.
+Recipe 569,Lunch,"Sugar, Milk, Tomato, Beef",21,Step 1: Prepare Sugar. Step 2: Add Milk. Step 3: Cook and serve.
+Recipe 570,Vegan,"Fish, Onion, Flour, Carrot",48,Step 1: Prepare Fish. Step 2: Add Onion. Step 3: Cook and serve.
+Recipe 571,Dessert,"Chicken, Rice, Onion, Butter, Sugar, Beef",18,Step 1: Prepare Chicken. Step 2: Add Rice. Step 3: Cook and serve.
+Recipe 572,Snacks,"Pasta, Pork, Spinach, Fish, Flour",37,Step 1: Prepare Pasta. Step 2: Add Pork. Step 3: Cook and serve.
+Recipe 573,Gluten-Free,"Butter, Pasta, Mushroom, Tomato",63,Step 1: Prepare Butter. Step 2: Add Pasta. Step 3: Cook and serve.
+Recipe 574,Dessert,"Tomato, Pork, Beef, Eggs",39,Step 1: Prepare Tomato. Step 2: Add Pork. Step 3: Cook and serve.
+Recipe 575,Gluten-Free,"Pasta, Pork, Butter, Flour, Beef",54,Step 1: Prepare Pasta. Step 2: Add Pork. Step 3: Cook and serve.
+Recipe 576,Gluten-Free,"Milk, Beef, Spinach, Butter",49,Step 1: Prepare Milk. Step 2: Add Beef. Step 3: Cook and serve.
+Recipe 577,Dessert,"Chicken, Mushroom, Chocolate, Rice, Potato, Beef, Fish",46,Step 1: Prepare Chicken. Step 2: Add Mushroom. Step 3: Cook and serve.
+Recipe 578,Drinks,"Mushroom, Eggs, Milk, Pork, Rice",87,Step 1: Prepare Mushroom. Step 2: Add Eggs. Step 3: Cook and serve.
+Recipe 579,Vegetarian,"Flour, Chicken, Butter, Pork, Fish, Eggs",63,Step 1: Prepare Flour. Step 2: Add Chicken. Step 3: Cook and serve.
+Recipe 580,Drinks,"Chicken, Carrot, Pork, Chocolate, Eggs",66,Step 1: Prepare Chicken. Step 2: Add Carrot. Step 3: Cook and serve.
+Recipe 581,Gluten-Free,"Chicken, Sugar, Beef, Potato, Eggs, Mushroom, Pork",82,Step 1: Prepare Chicken. Step 2: Add Sugar. Step 3: Cook and serve.
+Recipe 582,Dinner,"Chocolate, Beef, Onion, Fish, Spinach",43,Step 1: Prepare Chocolate. Step 2: Add Beef. Step 3: Cook and serve.
+Recipe 583,Vegan,"Chicken, Fish, Chocolate",56,Step 1: Prepare Chicken. Step 2: Add Fish. Step 3: Cook and serve.
+Recipe 584,Breakfast,"Chicken, Mushroom, Chocolate, Potato, Milk",74,Step 1: Prepare Chicken. Step 2: Add Mushroom. Step 3: Cook and serve.
+Recipe 585,Gluten-Free,"Chocolate, Tomato, Chicken, Milk, Pasta, Sugar",56,Step 1: Prepare Chocolate. Step 2: Add Tomato. Step 3: Cook and serve.
+Recipe 586,Gluten-Free,"Chocolate, Eggs, Beef",41,Step 1: Prepare Chocolate. Step 2: Add Eggs. Step 3: Cook and serve.
+Recipe 587,Dinner,"Garlic, Milk, Tomato, Spinach, Eggs, Butter, Potato",33,Step 1: Prepare Garlic. Step 2: Add Milk. Step 3: Cook and serve.
+Recipe 588,Vegan,"Potato, Fish, Rice, Eggs, Chocolate",25,Step 1: Prepare Potato. Step 2: Add Fish. Step 3: Cook and serve.
+Recipe 589,Vegetarian,"Spinach, Onion, Chocolate, Rice",39,Step 1: Prepare Spinach. Step 2: Add Onion. Step 3: Cook and serve.
+Recipe 590,Dinner,"Spinach, Pork, Chicken",31,Step 1: Prepare Spinach. Step 2: Add Pork. Step 3: Cook and serve.
+Recipe 591,Dinner,"Fish, Chicken, Pasta, Carrot",70,Step 1: Prepare Fish. Step 2: Add Chicken. Step 3: Cook and serve.
+Recipe 592,Dinner,"Flour, Pork, Tomato, Beef, Fish, Pasta, Chocolate",43,Step 1: Prepare Flour. Step 2: Add Pork. Step 3: Cook and serve.
+Recipe 593,Lunch,"Flour, Pork, Milk, Garlic, Butter, Spinach, Rice",22,Step 1: Prepare Flour. Step 2: Add Pork. Step 3: Cook and serve.
+Recipe 594,Dessert,"Potato, Pasta, Mushroom, Cheese, Butter",85,Step 1: Prepare Potato. Step 2: Add Pasta. Step 3: Cook and serve.
+Recipe 595,Dinner,"Butter, Pork, Eggs, Spinach, Mushroom",21,Step 1: Prepare Butter. Step 2: Add Pork. Step 3: Cook and serve.
+Recipe 596,Breakfast,"Fish, Spinach, Cheese",72,Step 1: Prepare Fish. Step 2: Add Spinach. Step 3: Cook and serve.
+Recipe 597,Dinner,"Mushroom, Onion, Potato",45,Step 1: Prepare Mushroom. Step 2: Add Onion. Step 3: Cook and serve.
+Recipe 598,Dinner,"Garlic, Pasta, Flour, Carrot, Rice",13,Step 1: Prepare Garlic. Step 2: Add Pasta. Step 3: Cook and serve.
+Recipe 599,Gluten-Free,"Tomato, Chocolate, Butter, Eggs",31,Step 1: Prepare Tomato. Step 2: Add Chocolate. Step 3: Cook and serve.
+Recipe 600,Breakfast,"Tomato, Beef, Chocolate, Fish, Milk, Spinach",39,Step 1: Prepare Tomato. Step 2: Add Beef. Step 3: Cook and serve.
+Recipe 601,Lunch,"Rice, Potato, Cheese, Mushroom, Flour, Tomato, Sugar",13,Step 1: Prepare Rice. Step 2: Add Potato. Step 3: Cook and serve.
+Recipe 602,Dessert,"Garlic, Cheese, Pasta, Mushroom, Fish",87,Step 1: Prepare Garlic. Step 2: Add Cheese. Step 3: Cook and serve.
+Recipe 603,Dinner,"Sugar, Onion, Carrot",56,Step 1: Prepare Sugar. Step 2: Add Onion. Step 3: Cook and serve.
+Recipe 604,Breakfast,"Chocolate, Tomato, Rice, Fish",33,Step 1: Prepare Chocolate. Step 2: Add Tomato. Step 3: Cook and serve.
+Recipe 605,Breakfast,"Tomato, Fish, Spinach, Carrot, Potato, Milk",31,Step 1: Prepare Tomato. Step 2: Add Fish. Step 3: Cook and serve.
+Recipe 606,Snacks,"Eggs, Potato, Spinach",13,Step 1: Prepare Eggs. Step 2: Add Potato. Step 3: Cook and serve.
+Recipe 607,Snacks,"Garlic, Sugar, Chicken, Pork, Cheese, Spinach, Rice",64,Step 1: Prepare Garlic. Step 2: Add Sugar. Step 3: Cook and serve.
+Recipe 608,Snacks,"Rice, Carrot, Garlic",30,Step 1: Prepare Rice. Step 2: Add Carrot. Step 3: Cook and serve.
+Recipe 609,Breakfast,"Fish, Beef, Pasta, Milk",33,Step 1: Prepare Fish. Step 2: Add Beef. Step 3: Cook and serve.
+Recipe 610,Dinner,"Fish, Rice, Carrot, Milk, Flour",48,Step 1: Prepare Fish. Step 2: Add Rice. Step 3: Cook and serve.
+Recipe 611,Drinks,"Carrot, Pasta, Chicken, Potato, Chocolate",13,Step 1: Prepare Carrot. Step 2: Add Pasta. Step 3: Cook and serve.
+Recipe 612,Dessert,"Onion, Carrot, Rice, Pork, Chocolate, Cheese",75,Step 1: Prepare Onion. Step 2: Add Carrot. Step 3: Cook and serve.
+Recipe 613,Dinner,"Cheese, Spinach, Eggs",15,Step 1: Prepare Cheese. Step 2: Add Spinach. Step 3: Cook and serve.
+Recipe 614,Breakfast,"Beef, Potato, Carrot, Tomato, Garlic",63,Step 1: Prepare Beef. Step 2: Add Potato. Step 3: Cook and serve.
+Recipe 615,Dinner,"Butter, Garlic, Beef, Cheese, Carrot",28,Step 1: Prepare Butter. Step 2: Add Garlic. Step 3: Cook and serve.
+Recipe 616,Lunch,"Milk, Pork, Sugar",63,Step 1: Prepare Milk. Step 2: Add Pork. Step 3: Cook and serve.
+Recipe 617,Gluten-Free,"Pork, Garlic, Potato, Chicken, Mushroom, Butter",11,Step 1: Prepare Pork. Step 2: Add Garlic. Step 3: Cook and serve.
+Recipe 618,Dessert,"Chocolate, Chicken, Onion, Carrot, Beef",80,Step 1: Prepare Chocolate. Step 2: Add Chicken. Step 3: Cook and serve.
+Recipe 619,Lunch,"Mushroom, Tomato, Spinach, Cheese, Butter",35,Step 1: Prepare Mushroom. Step 2: Add Tomato. Step 3: Cook and serve.
+Recipe 620,Dessert,"Chocolate, Chicken, Spinach",58,Step 1: Prepare Chocolate. Step 2: Add Chicken. Step 3: Cook and serve.
+Recipe 621,Dinner,"Pasta, Sugar, Carrot, Flour",12,Step 1: Prepare Pasta. Step 2: Add Sugar. Step 3: Cook and serve.
+Recipe 622,Drinks,"Onion, Garlic, Pasta, Mushroom, Flour, Fish",10,Step 1: Prepare Onion. Step 2: Add Garlic. Step 3: Cook and serve.
+Recipe 623,Breakfast,"Carrot, Flour, Spinach, Butter",74,Step 1: Prepare Carrot. Step 2: Add Flour. Step 3: Cook and serve.
+Recipe 624,Breakfast,"Butter, Sugar, Rice, Fish, Milk",70,Step 1: Prepare Butter. Step 2: Add Sugar. Step 3: Cook and serve.
+Recipe 625,Lunch,"Fish, Eggs, Pork, Onion, Beef",10,Step 1: Prepare Fish. Step 2: Add Eggs. Step 3: Cook and serve.
+Recipe 626,Dinner,"Rice, Chicken, Onion, Milk",17,Step 1: Prepare Rice. Step 2: Add Chicken. Step 3: Cook and serve.
+Recipe 627,Lunch,"Pork, Tomato, Chicken, Spinach, Rice",45,Step 1: Prepare Pork. Step 2: Add Tomato. Step 3: Cook and serve.
+Recipe 628,Breakfast,"Butter, Beef, Carrot, Sugar, Spinach",50,Step 1: Prepare Butter. Step 2: Add Beef. Step 3: Cook and serve.
+Recipe 629,Vegan,"Chicken, Potato, Fish, Mushroom",28,Step 1: Prepare Chicken. Step 2: Add Potato. Step 3: Cook and serve.
+Recipe 630,Gluten-Free,"Tomato, Carrot, Butter, Mushroom",54,Step 1: Prepare Tomato. Step 2: Add Carrot. Step 3: Cook and serve.
+Recipe 631,Drinks,"Rice, Sugar, Carrot",40,Step 1: Prepare Rice. Step 2: Add Sugar. Step 3: Cook and serve.
+Recipe 632,Gluten-Free,"Carrot, Mushroom, Butter, Pasta",30,Step 1: Prepare Carrot. Step 2: Add Mushroom. Step 3: Cook and serve.
+Recipe 633,Gluten-Free,"Spinach, Carrot, Milk, Eggs",41,Step 1: Prepare Spinach. Step 2: Add Carrot. Step 3: Cook and serve.
+Recipe 634,Drinks,"Beef, Milk, Sugar, Chicken, Chocolate, Rice",44,Step 1: Prepare Beef. Step 2: Add Milk. Step 3: Cook and serve.
+Recipe 635,Snacks,"Eggs, Sugar, Onion, Pasta, Garlic, Butter",87,Step 1: Prepare Eggs. Step 2: Add Sugar. Step 3: Cook and serve.
+Recipe 636,Dessert,"Tomato, Mushroom, Cheese, Butter, Spinach",90,Step 1: Prepare Tomato. Step 2: Add Mushroom. Step 3: Cook and serve.
+Recipe 637,Vegetarian,"Chocolate, Garlic, Beef",83,Step 1: Prepare Chocolate. Step 2: Add Garlic. Step 3: Cook and serve.
+Recipe 638,Lunch,"Fish, Potato, Rice, Beef, Sugar, Chicken",51,Step 1: Prepare Fish. Step 2: Add Potato. Step 3: Cook and serve.
+Recipe 639,Breakfast,"Chicken, Pasta, Mushroom, Milk, Fish, Rice, Beef",43,Step 1: Prepare Chicken. Step 2: Add Pasta. Step 3: Cook and serve.
+Recipe 640,Dessert,"Garlic, Eggs, Spinach",75,Step 1: Prepare Garlic. Step 2: Add Eggs. Step 3: Cook and serve.
+Recipe 641,Vegetarian,"Flour, Carrot, Butter, Eggs, Rice, Chicken",66,Step 1: Prepare Flour. Step 2: Add Carrot. Step 3: Cook and serve.
+Recipe 642,Snacks,"Mushroom, Onion, Potato, Pasta, Flour, Garlic",66,Step 1: Prepare Mushroom. Step 2: Add Onion. Step 3: Cook and serve.
+Recipe 643,Drinks,"Chocolate, Pork, Milk, Flour, Tomato",39,Step 1: Prepare Chocolate. Step 2: Add Pork. Step 3: Cook and serve.
+Recipe 644,Snacks,"Butter, Carrot, Onion, Spinach, Tomato, Garlic",69,Step 1: Prepare Butter. Step 2: Add Carrot. Step 3: Cook and serve.
+Recipe 645,Drinks,"Garlic, Cheese, Fish",55,Step 1: Prepare Garlic. Step 2: Add Cheese. Step 3: Cook and serve.
+Recipe 646,Snacks,"Spinach, Sugar, Rice, Pork, Potato",32,Step 1: Prepare Spinach. Step 2: Add Sugar. Step 3: Cook and serve.
+Recipe 647,Dessert,"Cheese, Garlic, Beef, Flour",37,Step 1: Prepare Cheese. Step 2: Add Garlic. Step 3: Cook and serve.
+Recipe 648,Drinks,"Cheese, Beef, Potato, Chocolate, Tomato",76,Step 1: Prepare Cheese. Step 2: Add Beef. Step 3: Cook and serve.
+Recipe 649,Gluten-Free,"Eggs, Beef, Tomato",77,Step 1: Prepare Eggs. Step 2: Add Beef. Step 3: Cook and serve.
+Recipe 650,Gluten-Free,"Spinach, Carrot, Fish",38,Step 1: Prepare Spinach. Step 2: Add Carrot. Step 3: Cook and serve.
+Recipe 651,Dinner,"Mushroom, Beef, Onion, Pork, Eggs, Chicken",57,Step 1: Prepare Mushroom. Step 2: Add Beef. Step 3: Cook and serve.
+Recipe 652,Snacks,"Tomato, Rice, Beef, Cheese, Milk, Pasta",20,Step 1: Prepare Tomato. Step 2: Add Rice. Step 3: Cook and serve.
+Recipe 653,Vegan,"Cheese, Carrot, Chocolate, Pasta, Eggs",13,Step 1: Prepare Cheese. Step 2: Add Carrot. Step 3: Cook and serve.
+Recipe 654,Vegetarian,"Potato, Chicken, Rice, Onion, Fish",49,Step 1: Prepare Potato. Step 2: Add Chicken. Step 3: Cook and serve.
+Recipe 655,Vegetarian,"Sugar, Chocolate, Flour, Mushroom",66,Step 1: Prepare Sugar. Step 2: Add Chocolate. Step 3: Cook and serve.
+Recipe 656,Vegetarian,"Chicken, Pork, Garlic, Pasta",68,Step 1: Prepare Chicken. Step 2: Add Pork. Step 3: Cook and serve.
+Recipe 657,Breakfast,"Chocolate, Carrot, Cheese, Potato, Butter, Sugar, Garlic",83,Step 1: Prepare Chocolate. Step 2: Add Carrot. Step 3: Cook and serve.
+Recipe 658,Gluten-Free,"Flour, Potato, Butter, Chicken, Rice, Fish",58,Step 1: Prepare Flour. Step 2: Add Potato. Step 3: Cook and serve.
+Recipe 659,Dessert,"Sugar, Mushroom, Milk, Garlic, Pasta, Spinach, Pork",82,Step 1: Prepare Sugar. Step 2: Add Mushroom. Step 3: Cook and serve.
+Recipe 660,Breakfast,"Potato, Pasta, Butter, Mushroom, Tomato",48,Step 1: Prepare Potato. Step 2: Add Pasta. Step 3: Cook and serve.
+Recipe 661,Snacks,"Butter, Garlic, Milk, Chocolate, Spinach, Onion",65,Step 1: Prepare Butter. Step 2: Add Garlic. Step 3: Cook and serve.
+Recipe 662,Gluten-Free,"Mushroom, Chicken, Fish, Tomato",32,Step 1: Prepare Mushroom. Step 2: Add Chicken. Step 3: Cook and serve.
+Recipe 663,Breakfast,"Beef, Cheese, Pork, Chocolate, Eggs",35,Step 1: Prepare Beef. Step 2: Add Cheese. Step 3: Cook and serve.
+Recipe 664,Vegetarian,"Milk, Fish, Flour, Spinach",10,Step 1: Prepare Milk. Step 2: Add Fish. Step 3: Cook and serve.
+Recipe 665,Breakfast,"Onion, Mushroom, Garlic",85,Step 1: Prepare Onion. Step 2: Add Mushroom. Step 3: Cook and serve.
+Recipe 666,Dessert,"Chicken, Carrot, Cheese, Garlic, Beef, Eggs, Sugar",59,Step 1: Prepare Chicken. Step 2: Add Carrot. Step 3: Cook and serve.
+Recipe 667,Snacks,"Milk, Chocolate, Eggs",46,Step 1: Prepare Milk. Step 2: Add Chocolate. Step 3: Cook and serve.
+Recipe 668,Gluten-Free,"Chocolate, Eggs, Beef, Fish, Butter, Spinach",60,Step 1: Prepare Chocolate. Step 2: Add Eggs. Step 3: Cook and serve.
+Recipe 669,Vegan,"Rice, Eggs, Chicken, Butter",21,Step 1: Prepare Rice. Step 2: Add Eggs. Step 3: Cook and serve.
+Recipe 670,Vegetarian,"Cheese, Flour, Fish, Potato, Chocolate",63,Step 1: Prepare Cheese. Step 2: Add Flour. Step 3: Cook and serve.
+Recipe 671,Lunch,"Cheese, Garlic, Beef, Flour, Sugar, Rice, Tomato",81,Step 1: Prepare Cheese. Step 2: Add Garlic. Step 3: Cook and serve.
+Recipe 672,Vegetarian,"Rice, Spinach, Beef",71,Step 1: Prepare Rice. Step 2: Add Spinach. Step 3: Cook and serve.
+Recipe 673,Dessert,"Cheese, Spinach, Mushroom, Tomato",81,Step 1: Prepare Cheese. Step 2: Add Spinach. Step 3: Cook and serve.
+Recipe 674,Dinner,"Flour, Butter, Onion",68,Step 1: Prepare Flour. Step 2: Add Butter. Step 3: Cook and serve.
+Recipe 675,Lunch,"Rice, Onion, Sugar, Spinach",69,Step 1: Prepare Rice. Step 2: Add Onion. Step 3: Cook and serve.
+Recipe 676,Snacks,"Pasta, Spinach, Cheese, Chocolate, Rice",44,Step 1: Prepare Pasta. Step 2: Add Spinach. Step 3: Cook and serve.
+Recipe 677,Lunch,"Sugar, Spinach, Pasta, Chocolate, Pork, Mushroom, Garlic",88,Step 1: Prepare Sugar. Step 2: Add Spinach. Step 3: Cook and serve.
+Recipe 678,Vegetarian,"Chocolate, Rice, Flour",55,Step 1: Prepare Chocolate. Step 2: Add Rice. Step 3: Cook and serve.
+Recipe 679,Vegan,"Onion, Beef, Milk, Pork, Spinach",51,Step 1: Prepare Onion. Step 2: Add Beef. Step 3: Cook and serve.
+Recipe 680,Snacks,"Tomato, Pork, Milk, Eggs",53,Step 1: Prepare Tomato. Step 2: Add Pork. Step 3: Cook and serve.
+Recipe 681,Snacks,"Cheese, Mushroom, Chocolate",40,Step 1: Prepare Cheese. Step 2: Add Mushroom. Step 3: Cook and serve.
+Recipe 682,Vegan,"Butter, Beef, Carrot",24,Step 1: Prepare Butter. Step 2: Add Beef. Step 3: Cook and serve.
+Recipe 683,Gluten-Free,"Spinach, Pork, Carrot, Eggs, Tomato, Garlic, Butter",51,Step 1: Prepare Spinach. Step 2: Add Pork. Step 3: Cook and serve.
+Recipe 684,Breakfast,"Butter, Onion, Potato, Spinach, Sugar, Pasta",34,Step 1: Prepare Butter. Step 2: Add Onion. Step 3: Cook and serve.
+Recipe 685,Dessert,"Pork, Spinach, Chocolate, Eggs, Onion",84,Step 1: Prepare Pork. Step 2: Add Spinach. Step 3: Cook and serve.
+Recipe 686,Snacks,"Fish, Mushroom, Potato, Onion",11,Step 1: Prepare Fish. Step 2: Add Mushroom. Step 3: Cook and serve.
+Recipe 687,Snacks,"Mushroom, Carrot, Potato, Pork, Tomato, Butter",82,Step 1: Prepare Mushroom. Step 2: Add Carrot. Step 3: Cook and serve.
+Recipe 688,Dessert,"Pasta, Sugar, Tomato, Garlic, Rice, Chicken",86,Step 1: Prepare Pasta. Step 2: Add Sugar. Step 3: Cook and serve.
+Recipe 689,Lunch,"Tomato, Eggs, Onion, Butter, Cheese, Spinach, Beef",30,Step 1: Prepare Tomato. Step 2: Add Eggs. Step 3: Cook and serve.
+Recipe 690,Lunch,"Rice, Beef, Sugar, Butter, Onion, Potato",59,Step 1: Prepare Rice. Step 2: Add Beef. Step 3: Cook and serve.
+Recipe 691,Vegetarian,"Rice, Flour, Milk, Potato, Spinach",11,Step 1: Prepare Rice. Step 2: Add Flour. Step 3: Cook and serve.
+Recipe 692,Dessert,"Chicken, Onion, Carrot, Tomato, Rice",34,Step 1: Prepare Chicken. Step 2: Add Onion. Step 3: Cook and serve.
+Recipe 693,Vegan,"Chicken, Flour, Eggs, Garlic",51,Step 1: Prepare Chicken. Step 2: Add Flour. Step 3: Cook and serve.
+Recipe 694,Vegan,"Carrot, Spinach, Fish",45,Step 1: Prepare Carrot. Step 2: Add Spinach. Step 3: Cook and serve.
+Recipe 695,Snacks,"Onion, Pork, Pasta, Tomato, Chicken, Sugar, Cheese",25,Step 1: Prepare Onion. Step 2: Add Pork. Step 3: Cook and serve.
+Recipe 696,Dessert,"Pasta, Butter, Fish, Flour, Beef, Chocolate",75,Step 1: Prepare Pasta. Step 2: Add Butter. Step 3: Cook and serve.
+Recipe 697,Dessert,"Pasta, Fish, Eggs, Butter",70,Step 1: Prepare Pasta. Step 2: Add Fish. Step 3: Cook and serve.
+Recipe 698,Lunch,"Milk, Mushroom, Sugar, Fish, Cheese",50,Step 1: Prepare Milk. Step 2: Add Mushroom. Step 3: Cook and serve.
+Recipe 699,Dinner,"Carrot, Onion, Milk, Pasta, Chicken, Butter",10,Step 1: Prepare Carrot. Step 2: Add Onion. Step 3: Cook and serve.
+Recipe 700,Gluten-Free,"Eggs, Flour, Butter, Onion",73,Step 1: Prepare Eggs. Step 2: Add Flour. Step 3: Cook and serve.
+Recipe 701,Drinks,"Flour, Chocolate, Mushroom",31,Step 1: Prepare Flour. Step 2: Add Chocolate. Step 3: Cook and serve.
+Recipe 702,Lunch,"Onion, Tomato, Cheese",78,Step 1: Prepare Onion. Step 2: Add Tomato. Step 3: Cook and serve.
+Recipe 703,Breakfast,"Pork, Carrot, Mushroom, Butter, Onion, Fish",39,Step 1: Prepare Pork. Step 2: Add Carrot. Step 3: Cook and serve.
+Recipe 704,Snacks,"Chicken, Eggs, Carrot, Spinach, Flour, Mushroom",10,Step 1: Prepare Chicken. Step 2: Add Eggs. Step 3: Cook and serve.
+Recipe 705,Snacks,"Carrot, Pork, Tomato, Eggs, Cheese, Pasta",66,Step 1: Prepare Carrot. Step 2: Add Pork. Step 3: Cook and serve.
+Recipe 706,Breakfast,"Spinach, Sugar, Eggs, Chocolate",75,Step 1: Prepare Spinach. Step 2: Add Sugar. Step 3: Cook and serve.
+Recipe 707,Gluten-Free,"Butter, Beef, Fish",10,Step 1: Prepare Butter. Step 2: Add Beef. Step 3: Cook and serve.
+Recipe 708,Dinner,"Potato, Mushroom, Onion, Chocolate, Eggs, Milk, Butter",41,Step 1: Prepare Potato. Step 2: Add Mushroom. Step 3: Cook and serve.
+Recipe 709,Vegan,"Rice, Cheese, Butter, Chicken, Mushroom, Milk, Garlic",85,Step 1: Prepare Rice. Step 2: Add Cheese. Step 3: Cook and serve.
+Recipe 710,Vegetarian,"Potato, Chicken, Mushroom",21,Step 1: Prepare Potato. Step 2: Add Chicken. Step 3: Cook and serve.
+Recipe 711,Gluten-Free,"Chicken, Tomato, Potato",64,Step 1: Prepare Chicken. Step 2: Add Tomato. Step 3: Cook and serve.
+Recipe 712,Drinks,"Spinach, Flour, Onion, Potato, Fish, Milk, Pasta",75,Step 1: Prepare Spinach. Step 2: Add Flour. Step 3: Cook and serve.
+Recipe 713,Snacks,"Rice, Chicken, Pasta",28,Step 1: Prepare Rice. Step 2: Add Chicken. Step 3: Cook and serve.
+Recipe 714,Gluten-Free,"Eggs, Butter, Chocolate, Flour, Pasta, Carrot, Fish",69,Step 1: Prepare Eggs. Step 2: Add Butter. Step 3: Cook and serve.
+Recipe 715,Snacks,"Pork, Onion, Beef, Cheese, Butter, Sugar, Carrot",76,Step 1: Prepare Pork. Step 2: Add Onion. Step 3: Cook and serve.
+Recipe 716,Lunch,"Carrot, Onion, Sugar",15,Step 1: Prepare Carrot. Step 2: Add Onion. Step 3: Cook and serve.
+Recipe 717,Vegetarian,"Sugar, Beef, Cheese, Butter",41,Step 1: Prepare Sugar. Step 2: Add Beef. Step 3: Cook and serve.
+Recipe 718,Breakfast,"Garlic, Rice, Spinach, Pork, Milk, Chocolate",66,Step 1: Prepare Garlic. Step 2: Add Rice. Step 3: Cook and serve.
+Recipe 719,Lunch,"Sugar, Onion, Butter, Flour, Garlic, Chocolate",62,Step 1: Prepare Sugar. Step 2: Add Onion. Step 3: Cook and serve.
+Recipe 720,Dinner,"Tomato, Chocolate, Rice, Spinach, Garlic, Onion, Sugar",27,Step 1: Prepare Tomato. Step 2: Add Chocolate. Step 3: Cook and serve.
+Recipe 721,Drinks,"Milk, Potato, Fish, Tomato, Cheese",51,Step 1: Prepare Milk. Step 2: Add Potato. Step 3: Cook and serve.
+Recipe 722,Drinks,"Potato, Butter, Garlic, Onion, Chicken",79,Step 1: Prepare Potato. Step 2: Add Butter. Step 3: Cook and serve.
+Recipe 723,Vegetarian,"Mushroom, Chocolate, Potato, Butter, Flour, Fish",10,Step 1: Prepare Mushroom. Step 2: Add Chocolate. Step 3: Cook and serve.
+Recipe 724,Breakfast,"Flour, Fish, Butter, Carrot",75,Step 1: Prepare Flour. Step 2: Add Fish. Step 3: Cook and serve.
+Recipe 725,Vegan,"Sugar, Fish, Eggs, Potato, Chocolate, Carrot",33,Step 1: Prepare Sugar. Step 2: Add Fish. Step 3: Cook and serve.
+Recipe 726,Drinks,"Butter, Mushroom, Potato, Chocolate, Cheese, Rice",70,Step 1: Prepare Butter. Step 2: Add Mushroom. Step 3: Cook and serve.
+Recipe 727,Lunch,"Chicken, Sugar, Mushroom, Pasta",84,Step 1: Prepare Chicken. Step 2: Add Sugar. Step 3: Cook and serve.
+Recipe 728,Dinner,"Pasta, Garlic, Tomato",64,Step 1: Prepare Pasta. Step 2: Add Garlic. Step 3: Cook and serve.
+Recipe 729,Dinner,"Sugar, Chocolate, Fish, Mushroom, Pork, Eggs, Milk",42,Step 1: Prepare Sugar. Step 2: Add Chocolate. Step 3: Cook and serve.
+Recipe 730,Lunch,"Milk, Garlic, Spinach, Sugar, Carrot",51,Step 1: Prepare Milk. Step 2: Add Garlic. Step 3: Cook and serve.
+Recipe 731,Dessert,"Flour, Spinach, Chicken, Eggs, Mushroom",24,Step 1: Prepare Flour. Step 2: Add Spinach. Step 3: Cook and serve.
+Recipe 732,Vegetarian,"Sugar, Fish, Mushroom, Chicken, Milk, Chocolate, Pasta",88,Step 1: Prepare Sugar. Step 2: Add Fish. Step 3: Cook and serve.
+Recipe 733,Vegetarian,"Beef, Milk, Potato, Pasta, Spinach, Sugar, Mushroom",37,Step 1: Prepare Beef. Step 2: Add Milk. Step 3: Cook and serve.
+Recipe 734,Breakfast,"Butter, Cheese, Mushroom, Eggs, Sugar",32,Step 1: Prepare Butter. Step 2: Add Cheese. Step 3: Cook and serve.
+Recipe 735,Breakfast,"Milk, Flour, Sugar",87,Step 1: Prepare Milk. Step 2: Add Flour. Step 3: Cook and serve.
+Recipe 736,Drinks,"Fish, Eggs, Carrot, Chicken, Mushroom, Cheese",50,Step 1: Prepare Fish. Step 2: Add Eggs. Step 3: Cook and serve.
+Recipe 737,Snacks,"Chicken, Butter, Potato",77,Step 1: Prepare Chicken. Step 2: Add Butter. Step 3: Cook and serve.
+Recipe 738,Vegan,"Flour, Pasta, Carrot, Milk, Fish, Butter",79,Step 1: Prepare Flour. Step 2: Add Pasta. Step 3: Cook and serve.
+Recipe 739,Dinner,"Flour, Pasta, Carrot, Pork, Fish, Spinach, Milk",49,Step 1: Prepare Flour. Step 2: Add Pasta. Step 3: Cook and serve.
+Recipe 740,Snacks,"Sugar, Rice, Flour, Chicken, Potato",71,Step 1: Prepare Sugar. Step 2: Add Rice. Step 3: Cook and serve.
+Recipe 741,Lunch,"Spinach, Pasta, Tomato, Pork, Onion",46,Step 1: Prepare Spinach. Step 2: Add Pasta. Step 3: Cook and serve.
+Recipe 742,Vegetarian,"Pasta, Beef, Butter",15,Step 1: Prepare Pasta. Step 2: Add Beef. Step 3: Cook and serve.
+Recipe 743,Lunch,"Milk, Garlic, Mushroom, Flour, Rice",58,Step 1: Prepare Milk. Step 2: Add Garlic. Step 3: Cook and serve.
+Recipe 744,Snacks,"Milk, Fish, Pasta, Carrot",53,Step 1: Prepare Milk. Step 2: Add Fish. Step 3: Cook and serve.
+Recipe 745,Breakfast,"Pasta, Onion, Chocolate, Tomato, Flour, Cheese",82,Step 1: Prepare Pasta. Step 2: Add Onion. Step 3: Cook and serve.
+Recipe 746,Dessert,"Garlic, Pork, Sugar, Chocolate, Tomato, Flour, Eggs",54,Step 1: Prepare Garlic. Step 2: Add Pork. Step 3: Cook and serve.
+Recipe 747,Gluten-Free,"Garlic, Chocolate, Onion",21,Step 1: Prepare Garlic. Step 2: Add Chocolate. Step 3: Cook and serve.
+Recipe 748,Drinks,"Pasta, Fish, Flour, Cheese, Onion, Spinach, Eggs",55,Step 1: Prepare Pasta. Step 2: Add Fish. Step 3: Cook and serve.
+Recipe 749,Vegan,"Mushroom, Fish, Chocolate",62,Step 1: Prepare Mushroom. Step 2: Add Fish. Step 3: Cook and serve.
+Recipe 750,Vegetarian,"Chicken, Mushroom, Chocolate, Sugar, Beef, Milk",69,Step 1: Prepare Chicken. Step 2: Add Mushroom. Step 3: Cook and serve.
+Recipe 751,Vegetarian,"Eggs, Pork, Spinach, Pasta, Garlic, Cheese",72,Step 1: Prepare Eggs. Step 2: Add Pork. Step 3: Cook and serve.
+Recipe 752,Vegan,"Carrot, Beef, Eggs, Fish, Chocolate",45,Step 1: Prepare Carrot. Step 2: Add Beef. Step 3: Cook and serve.
+Recipe 753,Vegan,"Milk, Cheese, Beef, Spinach",57,Step 1: Prepare Milk. Step 2: Add Cheese. Step 3: Cook and serve.
+Recipe 754,Drinks,"Fish, Tomato, Flour, Onion, Mushroom",26,Step 1: Prepare Fish. Step 2: Add Tomato. Step 3: Cook and serve.
+Recipe 755,Drinks,"Spinach, Butter, Sugar",81,Step 1: Prepare Spinach. Step 2: Add Butter. Step 3: Cook and serve.
+Recipe 756,Drinks,"Fish, Spinach, Cheese, Pork, Sugar",74,Step 1: Prepare Fish. Step 2: Add Spinach. Step 3: Cook and serve.
+Recipe 757,Vegetarian,"Sugar, Spinach, Chicken, Carrot, Potato, Onion",80,Step 1: Prepare Sugar. Step 2: Add Spinach. Step 3: Cook and serve.
+Recipe 758,Drinks,"Butter, Mushroom, Tomato, Potato",78,Step 1: Prepare Butter. Step 2: Add Mushroom. Step 3: Cook and serve.
+Recipe 759,Snacks,"Mushroom, Carrot, Cheese, Potato, Rice, Pasta",37,Step 1: Prepare Mushroom. Step 2: Add Carrot. Step 3: Cook and serve.
+Recipe 760,Drinks,"Chicken, Fish, Cheese, Milk, Beef",13,Step 1: Prepare Chicken. Step 2: Add Fish. Step 3: Cook and serve.
+Recipe 761,Drinks,"Chocolate, Chicken, Spinach, Garlic, Pasta, Milk",61,Step 1: Prepare Chocolate. Step 2: Add Chicken. Step 3: Cook and serve.
+Recipe 762,Gluten-Free,"Onion, Chicken, Garlic, Mushroom",71,Step 1: Prepare Onion. Step 2: Add Chicken. Step 3: Cook and serve.
+Recipe 763,Snacks,"Milk, Sugar, Mushroom",47,Step 1: Prepare Milk. Step 2: Add Sugar. Step 3: Cook and serve.
+Recipe 764,Dessert,"Carrot, Mushroom, Onion, Flour",84,Step 1: Prepare Carrot. Step 2: Add Mushroom. Step 3: Cook and serve.
+Recipe 765,Breakfast,"Chocolate, Chicken, Eggs, Carrot",38,Step 1: Prepare Chocolate. Step 2: Add Chicken. Step 3: Cook and serve.
+Recipe 766,Snacks,"Chocolate, Onion, Milk",52,Step 1: Prepare Chocolate. Step 2: Add Onion. Step 3: Cook and serve.
+Recipe 767,Snacks,"Carrot, Mushroom, Pasta, Rice, Pork, Fish, Sugar",38,Step 1: Prepare Carrot. Step 2: Add Mushroom. Step 3: Cook and serve.
+Recipe 768,Drinks,"Mushroom, Chicken, Pork, Cheese, Flour",19,Step 1: Prepare Mushroom. Step 2: Add Chicken. Step 3: Cook and serve.
+Recipe 769,Snacks,"Sugar, Tomato, Cheese, Pasta, Milk, Chicken",46,Step 1: Prepare Sugar. Step 2: Add Tomato. Step 3: Cook and serve.
+Recipe 770,Dessert,"Onion, Eggs, Pork",26,Step 1: Prepare Onion. Step 2: Add Eggs. Step 3: Cook and serve.
+Recipe 771,Snacks,"Chicken, Fish, Flour, Pasta, Rice, Sugar, Potato",90,Step 1: Prepare Chicken. Step 2: Add Fish. Step 3: Cook and serve.
+Recipe 772,Dinner,"Pork, Rice, Mushroom, Pasta, Cheese, Milk, Beef",21,Step 1: Prepare Pork. Step 2: Add Rice. Step 3: Cook and serve.
+Recipe 773,Dessert,"Beef, Eggs, Carrot, Sugar, Butter",23,Step 1: Prepare Beef. Step 2: Add Eggs. Step 3: Cook and serve.
+Recipe 774,Vegan,"Beef, Carrot, Sugar, Tomato, Garlic, Chocolate",77,Step 1: Prepare Beef. Step 2: Add Carrot. Step 3: Cook and serve.
+Recipe 775,Snacks,"Onion, Rice, Cheese, Garlic, Tomato",88,Step 1: Prepare Onion. Step 2: Add Rice. Step 3: Cook and serve.
+Recipe 776,Lunch,"Spinach, Milk, Sugar",85,Step 1: Prepare Spinach. Step 2: Add Milk. Step 3: Cook and serve.
+Recipe 777,Dinner,"Sugar, Rice, Pasta, Spinach, Tomato, Eggs",59,Step 1: Prepare Sugar. Step 2: Add Rice. Step 3: Cook and serve.
+Recipe 778,Lunch,"Chicken, Cheese, Pasta, Potato, Butter",11,Step 1: Prepare Chicken. Step 2: Add Cheese. Step 3: Cook and serve.
+Recipe 779,Breakfast,"Potato, Tomato, Eggs, Pork, Rice, Pasta, Fish",26,Step 1: Prepare Potato. Step 2: Add Tomato. Step 3: Cook and serve.
+Recipe 780,Vegetarian,"Chicken, Cheese, Tomato, Butter, Garlic, Flour, Milk",58,Step 1: Prepare Chicken. Step 2: Add Cheese. Step 3: Cook and serve.
+Recipe 781,Drinks,"Milk, Fish, Mushroom, Eggs, Rice, Potato, Carrot",78,Step 1: Prepare Milk. Step 2: Add Fish. Step 3: Cook and serve.
+Recipe 782,Vegan,"Tomato, Sugar, Spinach",71,Step 1: Prepare Tomato. Step 2: Add Sugar. Step 3: Cook and serve.
+Recipe 783,Lunch,"Flour, Chocolate, Butter",43,Step 1: Prepare Flour. Step 2: Add Chocolate. Step 3: Cook and serve.
+Recipe 784,Vegetarian,"Onion, Pasta, Beef, Sugar, Pork, Chocolate, Chicken",84,Step 1: Prepare Onion. Step 2: Add Pasta. Step 3: Cook and serve.
+Recipe 785,Drinks,"Flour, Mushroom, Potato, Chocolate, Milk",63,Step 1: Prepare Flour. Step 2: Add Mushroom. Step 3: Cook and serve.
+Recipe 786,Drinks,"Pasta, Cheese, Chicken, Garlic, Onion",13,Step 1: Prepare Pasta. Step 2: Add Cheese. Step 3: Cook and serve.
+Recipe 787,Dessert,"Flour, Rice, Onion, Sugar",27,Step 1: Prepare Flour. Step 2: Add Rice. Step 3: Cook and serve.
+Recipe 788,Drinks,"Milk, Pasta, Onion",90,Step 1: Prepare Milk. Step 2: Add Pasta. Step 3: Cook and serve.
+Recipe 789,Snacks,"Spinach, Tomato, Sugar, Onion, Carrot, Beef, Potato",25,Step 1: Prepare Spinach. Step 2: Add Tomato. Step 3: Cook and serve.
+Recipe 790,Vegetarian,"Chicken, Rice, Carrot, Flour",30,Step 1: Prepare Chicken. Step 2: Add Rice. Step 3: Cook and serve.
+Recipe 791,Vegan,"Garlic, Eggs, Cheese",52,Step 1: Prepare Garlic. Step 2: Add Eggs. Step 3: Cook and serve.
+Recipe 792,Breakfast,"Mushroom, Milk, Pasta",74,Step 1: Prepare Mushroom. Step 2: Add Milk. Step 3: Cook and serve.
+Recipe 793,Vegan,"Spinach, Fish, Tomato, Onion, Milk, Cheese, Pork",38,Step 1: Prepare Spinach. Step 2: Add Fish. Step 3: Cook and serve.
+Recipe 794,Vegan,"Potato, Cheese, Flour, Pasta, Fish, Sugar",10,Step 1: Prepare Potato. Step 2: Add Cheese. Step 3: Cook and serve.
+Recipe 795,Drinks,"Pasta, Eggs, Chocolate, Milk, Garlic, Potato, Pork",63,Step 1: Prepare Pasta. Step 2: Add Eggs. Step 3: Cook and serve.
+Recipe 796,Dessert,"Pasta, Cheese, Butter, Flour, Milk",24,Step 1: Prepare Pasta. Step 2: Add Cheese. Step 3: Cook and serve.
+Recipe 797,Drinks,"Flour, Chicken, Garlic, Onion",38,Step 1: Prepare Flour. Step 2: Add Chicken. Step 3: Cook and serve.
+Recipe 798,Dessert,"Sugar, Eggs, Onion, Milk, Pork, Pasta, Tomato",40,Step 1: Prepare Sugar. Step 2: Add Eggs. Step 3: Cook and serve.
+Recipe 799,Drinks,"Milk, Carrot, Onion, Cheese, Flour, Fish",67,Step 1: Prepare Milk. Step 2: Add Carrot. Step 3: Cook and serve.
+Recipe 800,Vegan,"Rice, Potato, Eggs, Sugar, Pork",37,Step 1: Prepare Rice. Step 2: Add Potato. Step 3: Cook and serve.
+Recipe 801,Gluten-Free,"Potato, Chicken, Beef",68,Step 1: Prepare Potato. Step 2: Add Chicken. Step 3: Cook and serve.
+Recipe 802,Gluten-Free,"Rice, Garlic, Spinach, Tomato, Carrot",39,Step 1: Prepare Rice. Step 2: Add Garlic. Step 3: Cook and serve.
+Recipe 803,Gluten-Free,"Onion, Pork, Pasta",60,Step 1: Prepare Onion. Step 2: Add Pork. Step 3: Cook and serve.
+Recipe 804,Breakfast,"Carrot, Milk, Beef, Chocolate, Mushroom, Flour, Tomato",76,Step 1: Prepare Carrot. Step 2: Add Milk. Step 3: Cook and serve.
+Recipe 805,Dessert,"Beef, Rice, Spinach, Fish, Eggs",31,Step 1: Prepare Beef. Step 2: Add Rice. Step 3: Cook and serve.
+Recipe 806,Vegan,"Mushroom, Beef, Spinach, Potato",73,Step 1: Prepare Mushroom. Step 2: Add Beef. Step 3: Cook and serve.
+Recipe 807,Breakfast,"Eggs, Rice, Cheese, Butter",54,Step 1: Prepare Eggs. Step 2: Add Rice. Step 3: Cook and serve.
+Recipe 808,Vegetarian,"Chicken, Fish, Garlic, Tomato, Eggs, Cheese, Beef",10,Step 1: Prepare Chicken. Step 2: Add Fish. Step 3: Cook and serve.
+Recipe 809,Dessert,"Potato, Chocolate, Eggs, Fish, Cheese",66,Step 1: Prepare Potato. Step 2: Add Chocolate. Step 3: Cook and serve.
+Recipe 810,Gluten-Free,"Cheese, Spinach, Garlic, Chicken",77,Step 1: Prepare Cheese. Step 2: Add Spinach. Step 3: Cook and serve.
+Recipe 811,Snacks,"Beef, Potato, Sugar",61,Step 1: Prepare Beef. Step 2: Add Potato. Step 3: Cook and serve.
+Recipe 812,Snacks,"Potato, Beef, Rice, Cheese, Pasta",32,Step 1: Prepare Potato. Step 2: Add Beef. Step 3: Cook and serve.
+Recipe 813,Snacks,"Pasta, Chocolate, Mushroom, Onion",22,Step 1: Prepare Pasta. Step 2: Add Chocolate. Step 3: Cook and serve.
+Recipe 814,Breakfast,"Cheese, Rice, Flour",11,Step 1: Prepare Cheese. Step 2: Add Rice. Step 3: Cook and serve.
+Recipe 815,Dessert,"Tomato, Spinach, Cheese, Chocolate",28,Step 1: Prepare Tomato. Step 2: Add Spinach. Step 3: Cook and serve.
+Recipe 816,Vegetarian,"Potato, Flour, Tomato",16,Step 1: Prepare Potato. Step 2: Add Flour. Step 3: Cook and serve.
+Recipe 817,Vegan,"Beef, Mushroom, Butter",14,Step 1: Prepare Beef. Step 2: Add Mushroom. Step 3: Cook and serve.
+Recipe 818,Breakfast,"Cheese, Rice, Fish, Butter, Pasta",14,Step 1: Prepare Cheese. Step 2: Add Rice. Step 3: Cook and serve.
+Recipe 819,Dinner,"Pork, Sugar, Mushroom, Onion, Butter",81,Step 1: Prepare Pork. Step 2: Add Sugar. Step 3: Cook and serve.
+Recipe 820,Vegan,"Pasta, Garlic, Carrot, Butter",51,Step 1: Prepare Pasta. Step 2: Add Garlic. Step 3: Cook and serve.
+Recipe 821,Drinks,"Cheese, Onion, Pork, Chocolate",16,Step 1: Prepare Cheese. Step 2: Add Onion. Step 3: Cook and serve.
+Recipe 822,Vegetarian,"Onion, Garlic, Chocolate, Potato, Carrot, Chicken, Sugar",53,Step 1: Prepare Onion. Step 2: Add Garlic. Step 3: Cook and serve.
+Recipe 823,Breakfast,"Spinach, Milk, Fish, Chocolate, Garlic, Mushroom, Pork",85,Step 1: Prepare Spinach. Step 2: Add Milk. Step 3: Cook and serve.
+Recipe 824,Snacks,"Carrot, Mushroom, Butter, Eggs",45,Step 1: Prepare Carrot. Step 2: Add Mushroom. Step 3: Cook and serve.
+Recipe 825,Breakfast,"Potato, Fish, Cheese, Beef, Mushroom",49,Step 1: Prepare Potato. Step 2: Add Fish. Step 3: Cook and serve.
+Recipe 826,Dessert,"Pasta, Pork, Milk, Eggs",38,Step 1: Prepare Pasta. Step 2: Add Pork. Step 3: Cook and serve.
+Recipe 827,Dinner,"Pasta, Milk, Flour, Butter, Cheese, Onion",20,Step 1: Prepare Pasta. Step 2: Add Milk. Step 3: Cook and serve.
+Recipe 828,Vegetarian,"Rice, Potato, Mushroom, Chicken, Onion, Cheese, Flour",41,Step 1: Prepare Rice. Step 2: Add Potato. Step 3: Cook and serve.
+Recipe 829,Gluten-Free,"Pasta, Milk, Fish",77,Step 1: Prepare Pasta. Step 2: Add Milk. Step 3: Cook and serve.
+Recipe 830,Drinks,"Potato, Chicken, Chocolate, Onion, Carrot, Beef, Eggs",51,Step 1: Prepare Potato. Step 2: Add Chicken. Step 3: Cook and serve.
+Recipe 831,Vegetarian,"Spinach, Potato, Fish, Eggs, Sugar, Mushroom, Pork",12,Step 1: Prepare Spinach. Step 2: Add Potato. Step 3: Cook and serve.
+Recipe 832,Snacks,"Onion, Beef, Sugar, Garlic, Potato, Pasta",86,Step 1: Prepare Onion. Step 2: Add Beef. Step 3: Cook and serve.
+Recipe 833,Snacks,"Pasta, Chicken, Chocolate, Eggs, Cheese",46,Step 1: Prepare Pasta. Step 2: Add Chicken. Step 3: Cook and serve.
+Recipe 834,Vegan,"Flour, Rice, Beef, Pasta, Garlic",31,Step 1: Prepare Flour. Step 2: Add Rice. Step 3: Cook and serve.
+Recipe 835,Vegetarian,"Cheese, Milk, Flour, Mushroom, Tomato, Fish",88,Step 1: Prepare Cheese. Step 2: Add Milk. Step 3: Cook and serve.
+Recipe 836,Snacks,"Carrot, Garlic, Cheese",24,Step 1: Prepare Carrot. Step 2: Add Garlic. Step 3: Cook and serve.
+Recipe 837,Dessert,"Cheese, Pork, Eggs, Chocolate, Beef, Tomato",75,Step 1: Prepare Cheese. Step 2: Add Pork. Step 3: Cook and serve.
+Recipe 838,Dinner,"Butter, Chicken, Onion, Rice, Cheese, Milk",19,Step 1: Prepare Butter. Step 2: Add Chicken. Step 3: Cook and serve.
+Recipe 839,Gluten-Free,"Garlic, Butter, Pork, Carrot",17,Step 1: Prepare Garlic. Step 2: Add Butter. Step 3: Cook and serve.
+Recipe 840,Vegan,"Cheese, Pork, Tomato, Beef, Spinach, Milk",29,Step 1: Prepare Cheese. Step 2: Add Pork. Step 3: Cook and serve.
+Recipe 841,Snacks,"Butter, Chicken, Pasta, Tomato",38,Step 1: Prepare Butter. Step 2: Add Chicken. Step 3: Cook and serve.
+Recipe 842,Breakfast,"Rice, Pasta, Chicken, Mushroom, Milk, Flour",36,Step 1: Prepare Rice. Step 2: Add Pasta. Step 3: Cook and serve.
+Recipe 843,Dinner,"Rice, Mushroom, Pasta, Beef, Spinach, Onion, Fish",56,Step 1: Prepare Rice. Step 2: Add Mushroom. Step 3: Cook and serve.
+Recipe 844,Dessert,"Potato, Tomato, Chicken",88,Step 1: Prepare Potato. Step 2: Add Tomato. Step 3: Cook and serve.
+Recipe 845,Lunch,"Carrot, Potato, Chocolate, Pork",88,Step 1: Prepare Carrot. Step 2: Add Potato. Step 3: Cook and serve.
+Recipe 846,Lunch,"Spinach, Sugar, Milk, Pork, Mushroom",75,Step 1: Prepare Spinach. Step 2: Add Sugar. Step 3: Cook and serve.
+Recipe 847,Breakfast,"Mushroom, Milk, Tomato, Garlic, Pasta",39,Step 1: Prepare Mushroom. Step 2: Add Milk. Step 3: Cook and serve.
+Recipe 848,Gluten-Free,"Fish, Flour, Mushroom, Carrot, Garlic, Spinach",81,Step 1: Prepare Fish. Step 2: Add Flour. Step 3: Cook and serve.
+Recipe 849,Vegan,"Mushroom, Rice, Tomato, Eggs",46,Step 1: Prepare Mushroom. Step 2: Add Rice. Step 3: Cook and serve.
+Recipe 850,Dessert,"Sugar, Flour, Beef, Rice, Tomato, Carrot, Pasta",51,Step 1: Prepare Sugar. Step 2: Add Flour. Step 3: Cook and serve.
+Recipe 851,Vegan,"Sugar, Chicken, Beef, Pork, Mushroom, Garlic, Eggs",42,Step 1: Prepare Sugar. Step 2: Add Chicken. Step 3: Cook and serve.
+Recipe 852,Drinks,"Mushroom, Pork, Flour, Chocolate, Rice",44,Step 1: Prepare Mushroom. Step 2: Add Pork. Step 3: Cook and serve.
+Recipe 853,Dinner,"Pasta, Fish, Mushroom",68,Step 1: Prepare Pasta. Step 2: Add Fish. Step 3: Cook and serve.
+Recipe 854,Drinks,"Tomato, Potato, Beef, Eggs, Carrot, Fish",64,Step 1: Prepare Tomato. Step 2: Add Potato. Step 3: Cook and serve.
+Recipe 855,Gluten-Free,"Milk, Beef, Potato, Onion, Cheese, Pasta, Mushroom",60,Step 1: Prepare Milk. Step 2: Add Beef. Step 3: Cook and serve.
+Recipe 856,Snacks,"Potato, Rice, Eggs, Fish, Mushroom",31,Step 1: Prepare Potato. Step 2: Add Rice. Step 3: Cook and serve.
+Recipe 857,Vegan,"Mushroom, Cheese, Fish, Onion",62,Step 1: Prepare Mushroom. Step 2: Add Cheese. Step 3: Cook and serve.
+Recipe 858,Dessert,"Chicken, Fish, Eggs, Milk, Flour, Beef, Rice",60,Step 1: Prepare Chicken. Step 2: Add Fish. Step 3: Cook and serve.
+Recipe 859,Lunch,"Cheese, Chocolate, Pork",62,Step 1: Prepare Cheese. Step 2: Add Chocolate. Step 3: Cook and serve.
+Recipe 860,Gluten-Free,"Chocolate, Fish, Eggs",67,Step 1: Prepare Chocolate. Step 2: Add Fish. Step 3: Cook and serve.
+Recipe 861,Dessert,"Onion, Flour, Fish, Beef",61,Step 1: Prepare Onion. Step 2: Add Flour. Step 3: Cook and serve.
+Recipe 862,Dessert,"Chocolate, Potato, Beef, Chicken, Pork, Sugar, Rice",13,Step 1: Prepare Chocolate. Step 2: Add Potato. Step 3: Cook and serve.
+Recipe 863,Gluten-Free,"Garlic, Rice, Flour",42,Step 1: Prepare Garlic. Step 2: Add Rice. Step 3: Cook and serve.
+Recipe 864,Lunch,"Sugar, Beef, Carrot",65,Step 1: Prepare Sugar. Step 2: Add Beef. Step 3: Cook and serve.
+Recipe 865,Gluten-Free,"Flour, Mushroom, Sugar, Rice, Carrot, Onion, Potato",66,Step 1: Prepare Flour. Step 2: Add Mushroom. Step 3: Cook and serve.
+Recipe 866,Breakfast,"Chocolate, Cheese, Potato, Pork",49,Step 1: Prepare Chocolate. Step 2: Add Cheese. Step 3: Cook and serve.
+Recipe 867,Drinks,"Rice, Mushroom, Potato, Sugar",70,Step 1: Prepare Rice. Step 2: Add Mushroom. Step 3: Cook and serve.
+Recipe 868,Gluten-Free,"Potato, Fish, Sugar",31,Step 1: Prepare Potato. Step 2: Add Fish. Step 3: Cook and serve.
+Recipe 869,Dessert,"Garlic, Rice, Spinach, Sugar",45,Step 1: Prepare Garlic. Step 2: Add Rice. Step 3: Cook and serve.
+Recipe 870,Snacks,"Butter, Onion, Mushroom, Spinach, Tomato, Chocolate",54,Step 1: Prepare Butter. Step 2: Add Onion. Step 3: Cook and serve.
+Recipe 871,Gluten-Free,"Rice, Chicken, Pork, Milk, Cheese, Butter, Fish",32,Step 1: Prepare Rice. Step 2: Add Chicken. Step 3: Cook and serve.
+Recipe 872,Breakfast,"Pasta, Flour, Rice, Onion, Fish, Mushroom, Chocolate",31,Step 1: Prepare Pasta. Step 2: Add Flour. Step 3: Cook and serve.
+Recipe 873,Dessert,"Chocolate, Fish, Beef",79,Step 1: Prepare Chocolate. Step 2: Add Fish. Step 3: Cook and serve.
+Recipe 874,Snacks,"Milk, Garlic, Fish",84,Step 1: Prepare Milk. Step 2: Add Garlic. Step 3: Cook and serve.
+Recipe 875,Vegan,"Eggs, Spinach, Carrot, Garlic, Rice",76,Step 1: Prepare Eggs. Step 2: Add Spinach. Step 3: Cook and serve.
+Recipe 876,Vegan,"Potato, Eggs, Chicken, Pork, Butter, Beef, Garlic",72,Step 1: Prepare Potato. Step 2: Add Eggs. Step 3: Cook and serve.
+Recipe 877,Breakfast,"Carrot, Pasta, Beef, Flour, Garlic",59,Step 1: Prepare Carrot. Step 2: Add Pasta. Step 3: Cook and serve.
+Recipe 878,Gluten-Free,"Rice, Fish, Onion, Potato, Beef",46,Step 1: Prepare Rice. Step 2: Add Fish. Step 3: Cook and serve.
+Recipe 879,Lunch,"Mushroom, Garlic, Onion, Pork, Potato",43,Step 1: Prepare Mushroom. Step 2: Add Garlic. Step 3: Cook and serve.
+Recipe 880,Vegetarian,"Pasta, Beef, Mushroom, Flour, Chicken",40,Step 1: Prepare Pasta. Step 2: Add Beef. Step 3: Cook and serve.
+Recipe 881,Drinks,"Cheese, Pork, Spinach, Onion, Flour, Potato, Sugar",18,Step 1: Prepare Cheese. Step 2: Add Pork. Step 3: Cook and serve.
+Recipe 882,Breakfast,"Eggs, Butter, Pork, Flour, Cheese, Milk",88,Step 1: Prepare Eggs. Step 2: Add Butter. Step 3: Cook and serve.
+Recipe 883,Breakfast,"Eggs, Milk, Pasta, Potato",63,Step 1: Prepare Eggs. Step 2: Add Milk. Step 3: Cook and serve.
+Recipe 884,Dinner,"Potato, Mushroom, Milk, Rice",63,Step 1: Prepare Potato. Step 2: Add Mushroom. Step 3: Cook and serve.
+Recipe 885,Dessert,"Beef, Flour, Butter, Carrot, Rice",35,Step 1: Prepare Beef. Step 2: Add Flour. Step 3: Cook and serve.
+Recipe 886,Snacks,"Garlic, Chocolate, Carrot, Pork, Butter",70,Step 1: Prepare Garlic. Step 2: Add Chocolate. Step 3: Cook and serve.
+Recipe 887,Drinks,"Potato, Sugar, Flour, Fish, Pork, Eggs",40,Step 1: Prepare Potato. Step 2: Add Sugar. Step 3: Cook and serve.
+Recipe 888,Lunch,"Pasta, Chicken, Chocolate, Eggs",19,Step 1: Prepare Pasta. Step 2: Add Chicken. Step 3: Cook and serve.
+Recipe 889,Dinner,"Pork, Potato, Chicken, Milk, Flour, Pasta, Sugar",75,Step 1: Prepare Pork. Step 2: Add Potato. Step 3: Cook and serve.
+Recipe 890,Gluten-Free,"Mushroom, Butter, Pasta, Flour, Chocolate",26,Step 1: Prepare Mushroom. Step 2: Add Butter. Step 3: Cook and serve.
+Recipe 891,Snacks,"Potato, Cheese, Milk, Spinach, Butter, Carrot",28,Step 1: Prepare Potato. Step 2: Add Cheese. Step 3: Cook and serve.
+Recipe 892,Breakfast,"Sugar, Eggs, Fish, Tomato, Carrot, Mushroom, Beef",13,Step 1: Prepare Sugar. Step 2: Add Eggs. Step 3: Cook and serve.
+Recipe 893,Breakfast,"Sugar, Milk, Mushroom, Rice, Pork",55,Step 1: Prepare Sugar. Step 2: Add Milk. Step 3: Cook and serve.
+Recipe 894,Gluten-Free,"Flour, Garlic, Sugar, Mushroom, Spinach, Carrot",17,Step 1: Prepare Flour. Step 2: Add Garlic. Step 3: Cook and serve.
+Recipe 895,Vegetarian,"Mushroom, Chicken, Sugar",14,Step 1: Prepare Mushroom. Step 2: Add Chicken. Step 3: Cook and serve.
+Recipe 896,Vegan,"Eggs, Potato, Butter",26,Step 1: Prepare Eggs. Step 2: Add Potato. Step 3: Cook and serve.
+Recipe 897,Gluten-Free,"Eggs, Sugar, Mushroom, Flour",82,Step 1: Prepare Eggs. Step 2: Add Sugar. Step 3: Cook and serve.
+Recipe 898,Dinner,"Fish, Milk, Potato, Carrot, Pasta, Butter",45,Step 1: Prepare Fish. Step 2: Add Milk. Step 3: Cook and serve.
+Recipe 899,Dinner,"Mushroom, Potato, Tomato, Flour, Cheese, Fish",39,Step 1: Prepare Mushroom. Step 2: Add Potato. Step 3: Cook and serve.
+Recipe 900,Dessert,"Mushroom, Beef, Rice, Eggs",46,Step 1: Prepare Mushroom. Step 2: Add Beef. Step 3: Cook and serve.
+Recipe 901,Snacks,"Tomato, Eggs, Beef, Pork, Onion, Pasta, Carrot",70,Step 1: Prepare Tomato. Step 2: Add Eggs. Step 3: Cook and serve.
+Recipe 902,Dinner,"Beef, Potato, Pasta, Pork, Carrot, Garlic",78,Step 1: Prepare Beef. Step 2: Add Potato. Step 3: Cook and serve.
+Recipe 903,Dessert,"Pasta, Sugar, Eggs, Tomato, Spinach",28,Step 1: Prepare Pasta. Step 2: Add Sugar. Step 3: Cook and serve.
+Recipe 904,Lunch,"Carrot, Flour, Butter, Pork, Beef",51,Step 1: Prepare Carrot. Step 2: Add Flour. Step 3: Cook and serve.
+Recipe 905,Dinner,"Onion, Eggs, Chocolate, Spinach",70,Step 1: Prepare Onion. Step 2: Add Eggs. Step 3: Cook and serve.
+Recipe 906,Dessert,"Eggs, Flour, Spinach",84,Step 1: Prepare Eggs. Step 2: Add Flour. Step 3: Cook and serve.
+Recipe 907,Gluten-Free,"Rice, Beef, Onion",73,Step 1: Prepare Rice. Step 2: Add Beef. Step 3: Cook and serve.
+Recipe 908,Vegetarian,"Eggs, Tomato, Beef, Fish, Milk",86,Step 1: Prepare Eggs. Step 2: Add Tomato. Step 3: Cook and serve.
+Recipe 909,Dinner,"Carrot, Sugar, Spinach",31,Step 1: Prepare Carrot. Step 2: Add Sugar. Step 3: Cook and serve.
+Recipe 910,Dinner,"Rice, Flour, Beef, Eggs, Pork, Fish",86,Step 1: Prepare Rice. Step 2: Add Flour. Step 3: Cook and serve.
+Recipe 911,Dessert,"Fish, Sugar, Onion, Butter",71,Step 1: Prepare Fish. Step 2: Add Sugar. Step 3: Cook and serve.
+Recipe 912,Dessert,"Onion, Garlic, Tomato, Mushroom, Eggs, Rice",72,Step 1: Prepare Onion. Step 2: Add Garlic. Step 3: Cook and serve.
+Recipe 913,Gluten-Free,"Chocolate, Spinach, Pasta, Butter, Rice, Eggs, Fish",18,Step 1: Prepare Chocolate. Step 2: Add Spinach. Step 3: Cook and serve.
+Recipe 914,Vegetarian,"Fish, Cheese, Flour, Sugar, Spinach, Onion",20,Step 1: Prepare Fish. Step 2: Add Cheese. Step 3: Cook and serve.
+Recipe 915,Snacks,"Pasta, Milk, Tomato",62,Step 1: Prepare Pasta. Step 2: Add Milk. Step 3: Cook and serve.
+Recipe 916,Dinner,"Onion, Cheese, Potato, Flour, Chocolate, Mushroom",49,Step 1: Prepare Onion. Step 2: Add Cheese. Step 3: Cook and serve.
+Recipe 917,Gluten-Free,"Sugar, Rice, Garlic, Flour, Eggs",11,Step 1: Prepare Sugar. Step 2: Add Rice. Step 3: Cook and serve.
+Recipe 918,Vegetarian,"Butter, Beef, Onion, Pasta",71,Step 1: Prepare Butter. Step 2: Add Beef. Step 3: Cook and serve.
+Recipe 919,Gluten-Free,"Garlic, Cheese, Spinach, Pork",70,Step 1: Prepare Garlic. Step 2: Add Cheese. Step 3: Cook and serve.
+Recipe 920,Dessert,"Flour, Fish, Onion, Carrot",64,Step 1: Prepare Flour. Step 2: Add Fish. Step 3: Cook and serve.
+Recipe 921,Dinner,"Cheese, Pasta, Beef",50,Step 1: Prepare Cheese. Step 2: Add Pasta. Step 3: Cook and serve.
+Recipe 922,Lunch,"Tomato, Onion, Carrot, Rice, Chicken, Beef, Fish",38,Step 1: Prepare Tomato. Step 2: Add Onion. Step 3: Cook and serve.
+Recipe 923,Gluten-Free,"Chicken, Chocolate, Pasta, Carrot, Rice, Flour, Beef",71,Step 1: Prepare Chicken. Step 2: Add Chocolate. Step 3: Cook and serve.
+Recipe 924,Dessert,"Tomato, Cheese, Butter",43,Step 1: Prepare Tomato. Step 2: Add Cheese. Step 3: Cook and serve.
+Recipe 925,Vegan,"Spinach, Eggs, Milk, Tomato, Pasta, Butter, Cheese",57,Step 1: Prepare Spinach. Step 2: Add Eggs. Step 3: Cook and serve.
+Recipe 926,Drinks,"Carrot, Rice, Potato, Sugar, Flour, Eggs, Onion",15,Step 1: Prepare Carrot. Step 2: Add Rice. Step 3: Cook and serve.
+Recipe 927,Gluten-Free,"Butter, Potato, Beef, Chicken, Sugar",19,Step 1: Prepare Butter. Step 2: Add Potato. Step 3: Cook and serve.
+Recipe 928,Drinks,"Carrot, Pasta, Milk, Rice",63,Step 1: Prepare Carrot. Step 2: Add Pasta. Step 3: Cook and serve.
+Recipe 929,Vegetarian,"Fish, Sugar, Pork, Beef, Milk, Pasta, Garlic",42,Step 1: Prepare Fish. Step 2: Add Sugar. Step 3: Cook and serve.
+Recipe 930,Dessert,"Pork, Potato, Chicken, Rice, Carrot, Onion",69,Step 1: Prepare Pork. Step 2: Add Potato. Step 3: Cook and serve.
+Recipe 931,Vegetarian,"Sugar, Fish, Carrot, Pork",38,Step 1: Prepare Sugar. Step 2: Add Fish. Step 3: Cook and serve.
+Recipe 932,Lunch,"Milk, Mushroom, Potato, Chocolate, Carrot, Fish",88,Step 1: Prepare Milk. Step 2: Add Mushroom. Step 3: Cook and serve.
+Recipe 933,Vegan,"Spinach, Sugar, Pork, Onion, Garlic",24,Step 1: Prepare Spinach. Step 2: Add Sugar. Step 3: Cook and serve.
+Recipe 934,Vegan,"Butter, Rice, Cheese",64,Step 1: Prepare Butter. Step 2: Add Rice. Step 3: Cook and serve.
+Recipe 935,Dessert,"Sugar, Milk, Tomato",35,Step 1: Prepare Sugar. Step 2: Add Milk. Step 3: Cook and serve.
+Recipe 936,Lunch,"Tomato, Chocolate, Mushroom, Sugar, Garlic, Rice",52,Step 1: Prepare Tomato. Step 2: Add Chocolate. Step 3: Cook and serve.
+Recipe 937,Vegetarian,"Cheese, Rice, Eggs, Pasta, Onion",48,Step 1: Prepare Cheese. Step 2: Add Rice. Step 3: Cook and serve.
+Recipe 938,Drinks,"Pork, Potato, Carrot, Beef, Milk, Onion",39,Step 1: Prepare Pork. Step 2: Add Potato. Step 3: Cook and serve.
+Recipe 939,Vegetarian,"Mushroom, Garlic, Fish, Butter, Chocolate, Pasta",44,Step 1: Prepare Mushroom. Step 2: Add Garlic. Step 3: Cook and serve.
+Recipe 940,Vegan,"Cheese, Spinach, Eggs, Onion, Pork, Fish",21,Step 1: Prepare Cheese. Step 2: Add Spinach. Step 3: Cook and serve.
+Recipe 941,Vegetarian,"Potato, Chicken, Carrot, Garlic",14,Step 1: Prepare Potato. Step 2: Add Chicken. Step 3: Cook and serve.
+Recipe 942,Vegan,"Onion, Flour, Garlic",47,Step 1: Prepare Onion. Step 2: Add Flour. Step 3: Cook and serve.
+Recipe 943,Drinks,"Carrot, Sugar, Eggs, Cheese, Potato, Mushroom",64,Step 1: Prepare Carrot. Step 2: Add Sugar. Step 3: Cook and serve.
+Recipe 944,Vegan,"Fish, Rice, Sugar, Garlic, Pasta, Butter, Onion",77,Step 1: Prepare Fish. Step 2: Add Rice. Step 3: Cook and serve.
+Recipe 945,Vegan,"Butter, Pork, Onion, Carrot, Cheese",67,Step 1: Prepare Butter. Step 2: Add Pork. Step 3: Cook and serve.
+Recipe 946,Vegetarian,"Milk, Eggs, Flour",20,Step 1: Prepare Milk. Step 2: Add Eggs. Step 3: Cook and serve.
+Recipe 947,Snacks,"Garlic, Spinach, Flour",28,Step 1: Prepare Garlic. Step 2: Add Spinach. Step 3: Cook and serve.
+Recipe 948,Lunch,"Onion, Eggs, Rice",54,Step 1: Prepare Onion. Step 2: Add Eggs. Step 3: Cook and serve.
+Recipe 949,Drinks,"Potato, Eggs, Onion",87,Step 1: Prepare Potato. Step 2: Add Eggs. Step 3: Cook and serve.
+Recipe 950,Lunch,"Spinach, Onion, Eggs, Sugar, Rice, Milk, Potato",44,Step 1: Prepare Spinach. Step 2: Add Onion. Step 3: Cook and serve.
+Recipe 951,Drinks,"Mushroom, Onion, Chicken",46,Step 1: Prepare Mushroom. Step 2: Add Onion. Step 3: Cook and serve.
+Recipe 952,Breakfast,"Fish, Pork, Milk",62,Step 1: Prepare Fish. Step 2: Add Pork. Step 3: Cook and serve.
+Recipe 953,Dinner,"Cheese, Eggs, Chocolate, Chicken",21,Step 1: Prepare Cheese. Step 2: Add Eggs. Step 3: Cook and serve.
+Recipe 954,Dessert,"Garlic, Onion, Spinach",68,Step 1: Prepare Garlic. Step 2: Add Onion. Step 3: Cook and serve.
+Recipe 955,Dinner,"Chocolate, Flour, Pork",34,Step 1: Prepare Chocolate. Step 2: Add Flour. Step 3: Cook and serve.
+Recipe 956,Breakfast,"Eggs, Butter, Rice, Flour, Cheese, Chocolate, Garlic",32,Step 1: Prepare Eggs. Step 2: Add Butter. Step 3: Cook and serve.
+Recipe 957,Gluten-Free,"Potato, Sugar, Spinach, Chocolate",64,Step 1: Prepare Potato. Step 2: Add Sugar. Step 3: Cook and serve.
+Recipe 958,Vegan,"Flour, Chocolate, Chicken, Mushroom, Potato, Tomato, Butter",62,Step 1: Prepare Flour. Step 2: Add Chocolate. Step 3: Cook and serve.
+Recipe 959,Drinks,"Chicken, Rice, Garlic, Beef, Sugar",45,Step 1: Prepare Chicken. Step 2: Add Rice. Step 3: Cook and serve.
+Recipe 960,Drinks,"Carrot, Tomato, Milk, Onion",32,Step 1: Prepare Carrot. Step 2: Add Tomato. Step 3: Cook and serve.
+Recipe 961,Snacks,"Carrot, Potato, Chicken, Butter",21,Step 1: Prepare Carrot. Step 2: Add Potato. Step 3: Cook and serve.
+Recipe 962,Dessert,"Chocolate, Onion, Beef",73,Step 1: Prepare Chocolate. Step 2: Add Onion. Step 3: Cook and serve.
+Recipe 963,Dinner,"Eggs, Milk, Spinach, Rice, Pork, Carrot, Onion",26,Step 1: Prepare Eggs. Step 2: Add Milk. Step 3: Cook and serve.
+Recipe 964,Lunch,"Butter, Chicken, Rice",90,Step 1: Prepare Butter. Step 2: Add Chicken. Step 3: Cook and serve.
+Recipe 965,Lunch,"Fish, Spinach, Pork",65,Step 1: Prepare Fish. Step 2: Add Spinach. Step 3: Cook and serve.
+Recipe 966,Vegan,"Sugar, Onion, Mushroom, Spinach, Chocolate",53,Step 1: Prepare Sugar. Step 2: Add Onion. Step 3: Cook and serve.
+Recipe 967,Dessert,"Milk, Sugar, Cheese, Flour",28,Step 1: Prepare Milk. Step 2: Add Sugar. Step 3: Cook and serve.
+Recipe 968,Drinks,"Flour, Sugar, Butter, Onion, Tomato, Fish, Cheese",89,Step 1: Prepare Flour. Step 2: Add Sugar. Step 3: Cook and serve.
+Recipe 969,Drinks,"Milk, Rice, Butter, Pasta",69,Step 1: Prepare Milk. Step 2: Add Rice. Step 3: Cook and serve.
+Recipe 970,Vegetarian,"Flour, Spinach, Rice, Pasta, Cheese, Sugar",31,Step 1: Prepare Flour. Step 2: Add Spinach. Step 3: Cook and serve.
+Recipe 971,Breakfast,"Fish, Chocolate, Pork, Milk",34,Step 1: Prepare Fish. Step 2: Add Chocolate. Step 3: Cook and serve.
+Recipe 972,Dinner,"Spinach, Onion, Eggs, Garlic, Chicken, Potato",66,Step 1: Prepare Spinach. Step 2: Add Onion. Step 3: Cook and serve.
+Recipe 973,Vegetarian,"Chocolate, Onion, Spinach",88,Step 1: Prepare Chocolate. Step 2: Add Onion. Step 3: Cook and serve.
+Recipe 974,Dinner,"Mushroom, Cheese, Carrot, Chicken",77,Step 1: Prepare Mushroom. Step 2: Add Cheese. Step 3: Cook and serve.
+Recipe 975,Dessert,"Butter, Pasta, Beef, Mushroom, Milk",13,Step 1: Prepare Butter. Step 2: Add Pasta. Step 3: Cook and serve.
+Recipe 976,Vegan,"Eggs, Carrot, Rice, Flour, Cheese, Chicken",63,Step 1: Prepare Eggs. Step 2: Add Carrot. Step 3: Cook and serve.
+Recipe 977,Lunch,"Garlic, Cheese, Onion, Fish, Tomato, Chicken, Mushroom",71,Step 1: Prepare Garlic. Step 2: Add Cheese. Step 3: Cook and serve.
+Recipe 978,Vegetarian,"Flour, Onion, Pork, Pasta, Rice, Mushroom",51,Step 1: Prepare Flour. Step 2: Add Onion. Step 3: Cook and serve.
+Recipe 979,Vegan,"Chicken, Cheese, Eggs",46,Step 1: Prepare Chicken. Step 2: Add Cheese. Step 3: Cook and serve.
+Recipe 980,Breakfast,"Pork, Cheese, Milk",53,Step 1: Prepare Pork. Step 2: Add Cheese. Step 3: Cook and serve.
+Recipe 981,Vegetarian,"Eggs, Garlic, Onion, Beef, Spinach",68,Step 1: Prepare Eggs. Step 2: Add Garlic. Step 3: Cook and serve.
+Recipe 982,Breakfast,"Rice, Garlic, Pork, Milk, Chocolate",66,Step 1: Prepare Rice. Step 2: Add Garlic. Step 3: Cook and serve.
+Recipe 983,Breakfast,"Pork, Potato, Carrot, Chicken",71,Step 1: Prepare Pork. Step 2: Add Potato. Step 3: Cook and serve.
+Recipe 984,Gluten-Free,"Pasta, Garlic, Chocolate, Cheese, Chicken, Mushroom, Sugar",48,Step 1: Prepare Pasta. Step 2: Add Garlic. Step 3: Cook and serve.
+Recipe 985,Dinner,"Pasta, Tomato, Butter, Milk, Fish, Pork",37,Step 1: Prepare Pasta. Step 2: Add Tomato. Step 3: Cook and serve.
+Recipe 986,Breakfast,"Chocolate, Rice, Cheese",57,Step 1: Prepare Chocolate. Step 2: Add Rice. Step 3: Cook and serve.
+Recipe 987,Dessert,"Sugar, Pasta, Onion",89,Step 1: Prepare Sugar. Step 2: Add Pasta. Step 3: Cook and serve.
+Recipe 988,Drinks,"Pasta, Cheese, Tomato, Garlic, Chocolate, Carrot, Butter",68,Step 1: Prepare Pasta. Step 2: Add Cheese. Step 3: Cook and serve.
+Recipe 989,Breakfast,"Fish, Spinach, Milk, Potato, Garlic",86,Step 1: Prepare Fish. Step 2: Add Spinach. Step 3: Cook and serve.
+Recipe 990,Snacks,"Potato, Pasta, Eggs, Chicken",62,Step 1: Prepare Potato. Step 2: Add Pasta. Step 3: Cook and serve.
+Recipe 991,Vegetarian,"Rice, Onion, Milk, Sugar, Chocolate, Butter",83,Step 1: Prepare Rice. Step 2: Add Onion. Step 3: Cook and serve.
+Recipe 992,Drinks,"Beef, Chocolate, Pork, Chicken, Fish",55,Step 1: Prepare Beef. Step 2: Add Chocolate. Step 3: Cook and serve.
+Recipe 993,Breakfast,"Chocolate, Eggs, Sugar, Carrot",82,Step 1: Prepare Chocolate. Step 2: Add Eggs. Step 3: Cook and serve.
+Recipe 994,Gluten-Free,"Fish, Sugar, Butter, Flour, Pork, Garlic, Chocolate",59,Step 1: Prepare Fish. Step 2: Add Sugar. Step 3: Cook and serve.
+Recipe 995,Dessert,"Cheese, Milk, Pork, Rice, Spinach",89,Step 1: Prepare Cheese. Step 2: Add Milk. Step 3: Cook and serve.
+Recipe 996,Dinner,"Mushroom, Carrot, Fish",66,Step 1: Prepare Mushroom. Step 2: Add Carrot. Step 3: Cook and serve.
+Recipe 997,Gluten-Free,"Onion, Cheese, Carrot",43,Step 1: Prepare Onion. Step 2: Add Cheese. Step 3: Cook and serve.
+Recipe 998,Dessert,"Rice, Onion, Butter, Chocolate, Beef",45,Step 1: Prepare Rice. Step 2: Add Onion. Step 3: Cook and serve.
+Recipe 999,Gluten-Free,"Milk, Beef, Carrot, Rice",14,Step 1: Prepare Milk. Step 2: Add Beef. Step 3: Cook and serve.
+Recipe 1000,Breakfast,"Beef, Rice, Mushroom, Flour, Eggs, Cheese",35,Step 1: Prepare Beef. Step 2: Add Rice. Step 3: Cook and serve.
